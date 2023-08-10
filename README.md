@@ -29,37 +29,37 @@ Expiration |	12 months
 
 ## Exam Objectives as of Aug 2023
 
-Section | Exam Objective     |  Documentation   | Tutorial  |
-------- | ------------------ |  --------------- | --------- | 
-**Domain 1** | [**Threat Detection and Incident Response (14%)**](domain1/README.md)
-| Task Statement 2 | Detect security threats and anomalies by using AWS services
-| Task Statement 3 | Respond to compromised resources and workloads
-**Domain 2** | [**Security Logging and Monitoring (18%)**](domain2/README.md) |
-| Task Statement 1 | Design and implement monitoring and alerting to address security events
-| Task Statement 2 | Troubleshoot security monitoring and alerting
-| Task Statement 3 | Design and implement a logging solution
-| Task Statement 4 | Troubleshoot logging solutions
-| Task Statement 5 | Design a log analysis solution
-**Domain 3** | [**Infrastructure Security (20%)**](domain3/README.md)
-| Task Statement 1 | Design and implement security controls for edge services
-| Task Statement 2 | Design and implement network security controls 
-| Task Statement 3 | Design and implement security controls for compute workloads 
-| Task Statement 4 | Troubleshoot network security
-**Domain 4** | [**Identity and Access Management (16%)**](domain4/README.md)
-| Task Statement 1 | Design, implement, and troubleshoot authentication for AWS resources
-| Task Statement 2 | Design, implement, and troubleshoot authorization for AWS resources
-**Domain 5** | [**Data Protection (18%)**](domain5/README.md)
-| Task Statement 1 | Design and implement controls that provide confidentiality and integrity for data in transit
-| Task Statement 2 | Design and implement controls that provide confidentiality and integrity for data at
+Section | Task Statement | Exam Objective     |  Documentation   | Tutorial  |
+------- | -------------- | ------------------ |  --------------- | --------- | 
+**Domain 1** | | [**Threat Detection and Incident Response (14%)**](domain1/README.md)
+| | Task Statement 2 | Detect security threats and anomalies by using AWS services
+| | Task Statement 3 | Respond to compromised resources and workloads
+**Domain 2** | | [**Security Logging and Monitoring (18%)**](domain2/README.md) |
+| | Task Statement 1 | Design and implement monitoring and alerting to address security events
+| | Task Statement 2 | Troubleshoot security monitoring and alerting
+| | Task Statement 3 | Design and implement a logging solution
+| | Task Statement 4 | Troubleshoot logging solutions
+| | Task Statement 5 | Design a log analysis solution
+**Domain 3** | | [**Infrastructure Security (20%)**](domain3/README.md)
+| | Task Statement 1 | Design and implement security controls for edge services
+| | Task Statement 2 | Design and implement network security controls 
+| | Task Statement 3 | Design and implement security controls for compute workloads 
+| | Task Statement 4 | Troubleshoot network security
+**Domain 4** | | [**Identity and Access Management (16%)**](domain4/README.md)
+| | Task Statement 1 | Design, implement, and troubleshoot authentication for AWS resources
+| | Task Statement 2 | Design, implement, and troubleshoot authorization for AWS resources
+**Domain 5** | | [**Data Protection (18%)**](domain5/README.md)
+| | Task Statement 1 | Design and implement controls that provide confidentiality and integrity for data in transit
+| | Task Statement 2 | Design and implement controls that provide confidentiality and integrity for data at
 rest
-| Task Statement 3 | Design and implement controls to manage the lifecycle of data at rest
-| Task Statement 4 | Design and implement controls to protect credentials, secrets, and cryptographic
+| | Task Statement 3 | Design and implement controls to manage the lifecycle of data at rest
+| | Task Statement 4 | Design and implement controls to protect credentials, secrets, and cryptographic
 key materials
-**Domain 6** | [**Threat Detection and Incident Response (14%)**](domain6/README.md)
-| Task Statement 1 | Develop a strategy to centrally deploy and manage AWS accounts
-| Task Statement 2 | Implement a secure and consistent deployment strategy for cloud resources
-| Task Statement 3 | Evaluate the compliance of AWS resources
-| Task Statement 4 | Identify security gaps through architectural reviews and cost analysis
+**Domain 6** | | [**Threat Detection and Incident Response (14%)**](domain6/README.md)
+| | Task Statement 1 | Develop a strategy to centrally deploy and manage AWS accounts
+| | Task Statement 2 | Implement a secure and consistent deployment strategy for cloud resources
+| | Task Statement 3 | Evaluate the compliance of AWS resources
+| | Task Statement 4 | Identify security gaps through architectural reviews and cost analysis
 
 
 
