@@ -51,11 +51,9 @@ Section & Task Statement | Exam Objective     |
 | 2 | Design, implement, and troubleshoot authorization for AWS resources
 **Domain 5** | [**Data Protection (18%)**](domain5/README.md)
 | 1 | Design and implement controls that provide confidentiality and integrity for data in transit
-| 2 | Design and implement controls that provide confidentiality and integrity for data at
-rest
+| 2 | Design and implement controls that provide confidentiality and integrity for data at rest
 | 3 | Design and implement controls to manage the lifecycle of data at rest
-| 4 | Design and implement controls to protect credentials, secrets, and cryptographic
-key materials
+| 4 | Design and implement controls to protect credentials, secrets, and cryptographic key materials
 **Domain 6** | [**Threat Detection and Incident Response (14%)**](domain6/README.md)
 | 1 | Develop a strategy to centrally deploy and manage AWS accounts
 | 2 | Implement a secure and consistent deployment strategy for cloud resources
