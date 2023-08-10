@@ -1,46 +1,12 @@
-## Part 4 - Manage security operations (25–30%)
+## Domain 4	- Identity and Access Management (16%)
 
-## Exam Objectives as of Aug 2023
+## Exam Objectives 
 
-Section | Exam Objective     |  Documentation   | Tutorial  |
-------- | ------------------ |  --------------- | --------- | 
-**4.1** | **Plan, implement, and manage governance for security** |
-| | 
-**4.2** | **Manage security posture by using Microsoft Defender for Cloud**  
-| | 
-**4.3** | **Configure and manage threat protection by using Microsoft Defender for Cloud**  
-| | 
-**4.4** | **Configure and manage security monitoring and automation solutions**  
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
+| Task Statement | Exam Objective     | 
+| ------------------------ | ------------------ | 
+| **Domain 4** | **Identity and Access Management (16%)**
+| 1 | Design, implement, and troubleshoot authentication for AWS resources
+| 2 | Design, implement, and troubleshoot authorization for AWS resources
 
 
----
-
-
-## Exam Objectives - LEGACY
-
-| Section | Exam Objective     |  Documentation   | Tutorial  |
-| ------- | ------------------ |  --------------- | --------- | 
-|   **4** | **AZ-500 part 4: Manage security operation** (3 Modules)
-|   | Configure and manage Azure Monitor (10 Units)
-|   | Enable and manage Microsoft Defender for Cloud (12 Units)
-|   | Configure and monitor Microsoft Sentinel (9 Units)
-
-
+--- 

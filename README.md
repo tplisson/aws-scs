@@ -1,10 +1,9 @@
-# AWS-SCS-C02 AWS Certified Security - Specialty — Study Notes
+# AWS-SCS-C02 - AWS Certified Security Specialty Certification — Study Notes
 
 [Overview](https://aws.amazon.com/certification/certified-security-specialty/)
 
 [Exam objectives](https://d1.awsstatic.com/training-and-certification/docs-security-spec/AWS-Certified-Security-Specialty_Exam-Guide.pdf)
 
-[Study Guide](https://learn.microsoft.com/en-gb/certifications/resources/study-guides/az-500)
 
 <p align="center">
   <img src="images/aws-scs-badge.png" {:height="25%" width="25%"}>
@@ -21,9 +20,9 @@ Assessment Type	| Multiple choice or multiple response
 Format	| Online proctored
 Duration	| 170 mins
 Questions | 65 questions
-Price	| $300 USD <sub>plus locally applicable taxes and fees</sub>
+Price	| $300 USD / €270 EUR
 Language	| English
-Expiration |	12 months
+Expiration |	3 years
 
 ---  
 

@@ -1,44 +1,15 @@
-## Part 2 - Secure networking (20–25%)
+## Domain 2	- Security Logging and Monitoring (18%)
 
-## Exam Objectives as of Aug 2023
+## Exam Objectives 
 
-Section | Exam Objective     |  Documentation   | Tutorial  |
-------- | ------------------ |  --------------- | --------- | 
-**2.1** | **Plan and implement security for virtual networks** |	
-**2.2** | **Plan and implement security for private access to Azure resources**		
-**2.3** | **Plan and implement security for public access to Azure resources**	
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
+| Task Statement | Exam Objective     | 
+| ------------------------ | ------------------ | 
+| **Domain 2** | **Security Logging and Monitoring (18%)**
+| 1 | Design and implement monitoring and alerting to address security events
+| 2 | Troubleshoot security monitoring and alerting
+| 3 | Design and implement a logging solution
+| 4 | Troubleshoot logging solutions
+| 5 | Design a log analysis solution
 
 
----
-
-
-## Exam Objectives - LEGACY
-
-| Section | Exam Objective     |  Documentation   | Tutorial  |
-| ------- | ------------------ |  --------------- | --------- | 
-|   **2** | **AZ-500 part2: Implement platform protection** (4 Modules)
-|   | Implement perimeter security (13 Units)
-|   | Configure network security (14 Units)
-|   | Configure and manage host security (14 Units)
-|   | Enable Containers security (14 Units)
-
-
+--- 
