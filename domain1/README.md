@@ -6,8 +6,8 @@
 | ------------------------ | ------------------ | 
 | **Domain 1** | **Threat Detection and Incident Response (14%)**
 | 1 | [Design and implement an incident response plan](#task-statement-1-design-and-implement-an-incident-response-plan)
-| 2 | Detect security threats and anomalies by using AWS services
-| 3 | Respond to compromised resources and workloads
+| 2 | [Detect security threats and anomalies by using AWS services](#task-statement-2-detect-security-threats-and-anomalies-by-using-aws-services)
+| 3 | [Respond to compromised resources and workloads](#task-statement-3-respond-to-compromised-resources-and-workloads)
 
 
 ## Task Statement 1: Design and implement an incident response plan

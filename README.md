@@ -32,8 +32,8 @@ Expiration |	3 years
 | ------------------------ | ------------------ | 
 | **Domain 1** | [**Threat Detection and Incident Response (14%)**](domain1/README.md)
 | 1 | [Design and implement an incident response plan](domain1/README.md#task-statement-1-design-and-implement-an-incident-response-plan)
-| 2 | Detect security threats and anomalies by using AWS services
-| 3 | Respond to compromised resources and workloads
+| 2 | [Detect security threats and anomalies by using AWS services](domain1/README.md#task-statement-2-detect-security-threats-and-anomalies-by-using-aws-services)
+| 3 | [Respond to compromised resources and workloads](domain1/README.md#task-statement-3-respond-to-compromised-resources-and-workloads)
 | **Domain 2** | [**Security Logging and Monitoring (18%)**](domain2/README.md) 
 | 1 | Design and implement monitoring and alerting to address security events
 | 2 | Troubleshoot security monitoring and alerting
