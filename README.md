@@ -29,12 +29,12 @@ Expiration |	12 months
 
 ## Exam Objectives as of Aug 2023
 
-Section | Task Statement | Exam Objective     |  Documentation   | Tutorial  |
-------- | -------------- | ------------------ |  --------------- | --------- | 
+Section | Task Statement | Exam Objective     | 
+------- | -------------- | ------------------ | 
 **Domain 1** | | [**Threat Detection and Incident Response (14%)**](domain1/README.md)
 | | Task Statement 2 | Detect security threats and anomalies by using AWS services
 | | Task Statement 3 | Respond to compromised resources and workloads
-**Domain 2** | | [**Security Logging and Monitoring (18%)**](domain2/README.md) |
+**Domain 2** | | [**Security Logging and Monitoring (18%)**](domain2/README.md) 
 | | Task Statement 1 | Design and implement monitoring and alerting to address security events
 | | Task Statement 2 | Troubleshoot security monitoring and alerting
 | | Task Statement 3 | Design and implement a logging solution
