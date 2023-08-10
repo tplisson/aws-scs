@@ -7,7 +7,7 @@
 [Study Guide](https://learn.microsoft.com/en-gb/certifications/resources/study-guides/az-500)
 
 <p align="center">
-  <img src="images/az-500-badge.svg" {:height="25%" width="25%"}>
+  <img src="images/aws-scs-badge.png" {:height="25%" width="25%"}>
 </p>
 <br/>
   
@@ -17,11 +17,11 @@
 
 Exam Details  |   |
 ------------- | - |  
-Assessment Type	| Multiple choice
+Assessment Type	| Multiple choice or multiple response
 Format	| Online proctored
-Duration	| 150-210 mins
-Questions | 40 to 60 questions(One lab with around 12 sub-tasks) 
-Price	| $165 USD <sub>plus locally applicable taxes and fees</sub>
+Duration	| 170 mins
+Questions | 65 questions
+Price	| $300 USD <sub>plus locally applicable taxes and fees</sub>
 Language	| English
 Expiration |	12 months
 
@@ -32,43 +32,34 @@ Expiration |	12 months
 Section | Exam Objective     |  Documentation   | Tutorial  |
 ------- | ------------------ |  --------------- | --------- | 
 **Domain 1** | [**Threat Detection and Incident Response (14%)**](domain1/README.md)
-| | Task Statement 1: Design and implement an incident response plan.
-| | Task Statement 2: Detect security threats and anomalies by using AWS services.
-| | Task Statement 3: Respond to compromised resources and workloads.
+| Task Statement 2 | Detect security threats and anomalies by using AWS services
+| Task Statement 3 | Respond to compromised resources and workloads
 **Domain 2** | [**Security Logging and Monitoring (18%)**](domain2/README.md) |
-| | Task Statement 1: Design and implement monitoring and alerting to address security events.
-| | Plan and implement security for private access to Azure resources
-| | Plan and implement security for public access to Azure resources
+| Task Statement 1 | Design and implement monitoring and alerting to address security events
+| Task Statement 2 | Troubleshoot security monitoring and alerting
+| Task Statement 3 | Design and implement a logging solution
+| Task Statement 4 | Troubleshoot logging solutions
+| Task Statement 5 | Design a log analysis solution
 **Domain 3** | [**Infrastructure Security (20%)**](domain3/README.md)
-| | Plan and implement advanced security for compute
-| | Plan and implement security for storage
-| | Plan and implement security for Azure SQL Database and Azure SQL Managed Instance
+| Task Statement 1 | Design and implement security controls for edge services
+| Task Statement 2 | Design and implement network security controls 
+| Task Statement 3 | Design and implement security controls for compute workloads 
+| Task Statement 4 | Troubleshoot network security
 **Domain 4** | [**Identity and Access Management (16%)**](domain4/README.md)
-| | Plan, implement, and manage governance for security
-| | Manage security posture by using Microsoft Defender for Cloud
-| | Configure and manage threat protection by using Microsoft Defender for Cloud
-| | Configure and manage security monitoring and automation solutions
+| Task Statement 1 | Design, implement, and troubleshoot authentication for AWS resources
+| Task Statement 2 | Design, implement, and troubleshoot authorization for AWS resources
 **Domain 5** | [**Data Protection (18%)**](domain5/README.md)
-| | Task Statement 1: Design and implement an incident response plan.
+| Task Statement 1 | Design and implement controls that provide confidentiality and integrity for data in transit
+| Task Statement 2 | Design and implement controls that provide confidentiality and integrity for data at
+rest
+| Task Statement 3 | Design and implement controls to manage the lifecycle of data at rest
+| Task Statement 4 | Design and implement controls to protect credentials, secrets, and cryptographic
+key materials
 **Domain 6** | [**Threat Detection and Incident Response (14%)**](domain6/README.md)
-| | Task Statement 1: Design and implement an incident response plan.
-
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
+| Task Statement 1 | Develop a strategy to centrally deploy and manage AWS accounts
+| Task Statement 2 | Implement a secure and consistent deployment strategy for cloud resources
+| Task Statement 3 | Evaluate the compliance of AWS resources
+| Task Statement 4 | Identify security gaps through architectural reviews and cost analysis
 
 
 
