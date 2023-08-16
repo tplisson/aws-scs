@@ -2,17 +2,19 @@
 
 [Overview](https://aws.amazon.com/certification/certified-security-specialty/)
 
-<p align="center">
+<!-- <p align="center">
   <img src="images/aws-scs-badge.png" {:height="25%" width="25%"}>
 </p>
-<br/>
----
+<br/> -->
 
-<a href="https://aws.amazon.com/certification/certified-security-specialty/">
+---  
+
+<a align="center" href="https://aws.amazon.com/certification/certified-security-specialty/">
   <img src="images/aws-scs-badge.png" {:height="25%" width="25%"}>
 </a>
 
----
+---  
+
 ## Table of Content 
 | ------------------------ | 
 [Exam Details](#exam-details) |
