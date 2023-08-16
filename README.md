@@ -1,7 +1,5 @@
 # AWS-SCS-C02 - AWS Certified Security Specialty Certification — Study Notes
 
-[Overview](https://aws.amazon.com/certification/certified-security-specialty/)
-
 <!-- <p align="center">
   <img src="images/aws-scs-badge.png" {:height="25%" width="25%"}>
 </p>
@@ -15,12 +13,13 @@
 
 ## Table of Contents  
 
-| --- | ------------------------ | 
-| | [Exam Details](#exam-details) |
-| | [Exam Objectives as of Aug 2023](#exam-objectives-as-of-aug-2023) | 
-| | [Which key tools, technologies, and concepts might be covered on the exam?](#which-key-tools-technologies-and-concepts-might-be-covered-on-the-exam) |
-| | [AWS services and features](#aws-services-and-features) |
-| | [Out-of-scope AWS services and features](#out-of-scope-aws-services-and-features) |
+ Section                  |
+ ------------------------ | 
+| [Exam Details](#exam-details)  |  
+| [Exam Objectives as of Aug 2023](#exam-objectives-as-of-aug-2023)  |  
+| [Which key tools, technologies, and concepts might be covered on the exam?](#which-key-tools-technologies-and-concepts-might-be-covered-on-the-exam)  |  
+| [AWS services and features](#aws-services-and-features)  |  
+| [Out-of-scope AWS services and features](#out-of-scope-aws-services-and-features)  |  
 
 ---  
 
