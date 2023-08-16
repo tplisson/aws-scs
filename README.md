@@ -60,4 +60,57 @@ Expiration |	3 years
 | 4 | Identify security gaps through architectural reviews and cost analysis
 
 
+
+## Which key tools, technologies, and concepts might be covered on the exam?
+The following is a non-exhaustive list of the tools and technologies that could appear on the exam. This list is subject to change and is provided to help you understand the general scope of services, features, or technologies on the exam. The general tools and technologies in this list appear in no particular order. AWS services are grouped according to their primary functions. While some of these technologies will likely be covered more than others on the exam, the order and placement of them in this list is no indication of relative weight or importance:
+• AWS CLI
+• AWS SDK
+• AWS Management Console
+• Secure Remote Access
+• Certificate management
+• Infrastructure as code (IaC)
+
+## AWS services and features
+Note: Security affects all AWS services. Many services do not appear in this list because the overall service is out of scope, but the security aspects of the service are in scope. For example, a candidate for this exam would not be asked about the steps to set up replication for an S3 bucket, but the candidate might be asked about configuring an S3 bucket policy.
+
+Management and Governance:
+• AWS Audit Manager
+• AWS CloudTrail
+• Amazon CloudWatch
+• AWS Config
+• AWS Organizations
+• AWS Systems Manager
+• AWS Trusted Advisor
+Networking and Content Delivery:
+• Amazon Detective
+• AWS Firewall Manager
+• AWS Network Firewall
+• AWS Security Hub
+• AWS Shield
+• Amazon VPC
+o VPC endpoints
+o Network ACLs
+o Security groups
+o Network Access Analyzer
+• AWS WAF
+Security, Identity, and Compliance:
+• AWS Certificate Manager (ACM)
+• AWS CloudHSM
+• AWS Directory Service
+• Amazon GuardDuty
+• AWS Identity and Access Management (IAM)
+• Amazon Inspector
+• AWS Key Management Service (AWS KMS)
+• Amazon Macie
+• AWS Single Sign-On
+
+## Out-of-scope AWS services and features
+The following is a non-exhaustive list of AWS services and features that are not covered on the exam. These services and features do not represent every AWS offering that is excluded from the exam content. Services or features that are entirely unrelated to the target job roles for the exam are excluded from this list because they are assumed to be irrelevant.
+Out-of-scope AWS services and features include the following:
+• Application development services
+• IoT services
+• Machine learning (ML) services
+• Media services
+• Migration and transfer services
+
 ---  
