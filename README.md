@@ -2,14 +2,13 @@
 
 [Overview](https://aws.amazon.com/certification/certified-security-specialty/)
 
-[Exam objectives](https://d1.awsstatic.com/training-and-certification/docs-security-spec/AWS-Certified-Security-Specialty_Exam-Guide.pdf)
-
-
 <p align="center">
   <img src="images/aws-scs-badge.png" {:height="25%" width="25%"}>
 </p>
 <br/>
-  
+
+[![AWS-SCS-C02](images/aws-scs-badge.png 'AWS-SCS-C02 Overview')](https://aws.amazon.com/certification/certified-security-specialty/)
+
 ---  
 
 ## Exam details
@@ -26,7 +25,7 @@ Expiration |	3 years
 
 ---  
 
-## Exam Objectives as of Aug 2023
+## [Exam Objectives as of Aug 2023](https://d1.awsstatic.com/training-and-certification/docs-security-spec/AWS-Certified-Security-Specialty_Exam-Guide.pdf)
 
 | Task Statement | Exam Objective     | 
 | ------------------------ | ------------------ | 
