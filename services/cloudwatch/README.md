@@ -1,9 +1,9 @@
 # AWS CloudWatch
-- __Logging and Monitoring__
+- **Logging and Monitoring**
   - within AWS and external (can send to CloudWatch)
-- __Centralized and Secured__
+- **Centralized and Secured**
   - KMS encryption
-- __Easy Analysis__
+- **Easy Analysis**
   - Query language for interacrtive search
 - Integration with CloudTrail
   - Alarm creation for specified API activities
@@ -48,20 +48,23 @@ Support for *Windows* and *Linux*
 - EC2 agent publishing logs to CloudWatch
 
 ***Unified***  
-- Supports __IMDSv2__ (Instance MetaData - Service)
-- Supports __both__ apps logs + system-level logs and metrics from EC2 __and__ on-premise instances.  
+- Supports **IMDSv2** (Instance MetaData - Service)
+- Supports **both** apps logs + system-level logs and metrics from EC2 **and** on-premise instances.  
 - from `StatsD` & `collectD`
 
 
+Agent    
+![Agent](img/agent.jpg)
 
 
-## Exam terms
+## Exam Tips
 
+- Centralized logging solution (from AWS or else)
+- Log Retention can be customized
+- Customized Encryption support with KMS
+  - use distinct KMS keys for CloudWatch log groups
+- CloudWatch Agent to collect system-level custom logs and metrics
+- Subscription Filtering support
+- Limitations: each log group can have up to 2 Subscription Filters
   
 ---  
-
-Sample    
-![Sample](img/sample.jpg)
-
----  
-
