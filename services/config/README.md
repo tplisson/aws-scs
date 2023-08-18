@@ -1,13 +1,14 @@
 # AWS Config
 - Offers detailed view of  AWS resources within AWS accounts
-- Provides historial tracking i.e. configuration recording timeline
-- NOT a preventive service
+- Provides ***historial tracking*** i.e. configuration recording timeline
+- ***DOES NOT prevent*** changes
 - a ***regional*** service
 - SNS integration
 
 ## Usage
-- Audit and Compliance
-  - Main usage
+- Audit and Compliance, Governance
+  - main usage
+  - detailed autiting info for resource changes
 - Resource administration
   - easily detect and notify of misconfigs
 - Troubleshooting
@@ -20,20 +21,20 @@
 - Configuration History
 - Configuration Items
   - point-in-time views of different attributes
-- Configuration Recorder
+- Configuration **Recorder**
   - must create and start a recorder before configs are stored!
 - **Aggregator**
-  - to aggregate views from multiple sources (regions, accounts, org...)  
+  - to aggregate views from multiple sources for multi-account, multi-region deployments 
   - requires authorization
-  - centralized notification
+  - can provide centralized notification
 - Conformance Packs
   - Collection of Config rules & remediation actions deployed as a single entity
 
 ## Config Rules
 
 Rules 
-- Managed Rules 
-- Custom Rules
+- Managed Rules (preset packages)
+- Custom Rules (using Lambda)
 
 Evaluation Types:
 - configuration changes
@@ -42,12 +43,8 @@ Evaluation Types:
   
 ---  
 
+Multi-Account Multi-Region Data Aggregation  
 ![Aggregator](img/aggregator.jpg)
-
-<!-- <a align="center" href="https://docs.aws.amazon.com/config/latest/developerguide/aggregate-data.html">
-  <img src="img
-/aggregator.jpg" {:height="25%" width="25%"}>
-</a> -->
 
 ---  
 

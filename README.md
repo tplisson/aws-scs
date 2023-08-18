@@ -46,11 +46,11 @@ Expiration |	3 years
 | 2 | [Detect security threats and anomalies by using AWS services](domain1/README.md#task-statement-2-detect-security-threats-and-anomalies-by-using-aws-services)
 | 3 | [Respond to compromised resources and workloads](domain1/README.md#task-statement-3-respond-to-compromised-resources-and-workloads)
 | **Domain 2** | [**Security Logging and Monitoring (18%)**](domain2/README.md) 
-| 1 | Design and implement monitoring and alerting to address security events
-| 2 | Troubleshoot security monitoring and alerting
-| 3 | Design and implement a logging solution
-| 4 | Troubleshoot logging solutions
-| 5 | Design a log analysis solution
+| 1 | [Design and implement monitoring and alerting to address security events](domain2/README.md#task-statement-1-design-and-implement-monitoring-and-alerting-to-address-security-events)
+| 2 | [Troubleshoot security monitoring and alerting](domain2/README.md#task-statement-2-troubleshoot-security-monitoring-and-alerting)
+| 3 | [Design and implement a logging solution](domain2/README.md#task-statement-3-design-and-implement-a-logging-solution)
+| 4 | [Troubleshoot logging solutions](domain2/README.md#task-statement-4-troubleshoot-logging-solutions)
+| 5 | [Design a log analysis solution](domain2/README.md#task-statement-5-design-a-log-analysis-solution)
 | **Domain 3** | [**Infrastructure Security (20%)**](domain3/README.md)
 | 1 | Design and implement security controls for edge services
 | 2 | Design and implement network security controls 
