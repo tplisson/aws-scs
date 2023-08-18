@@ -17,9 +17,9 @@
 ## Task Statement 1: Design and implement monitoring and alerting to address security events. 
 
 Knowledge of:
-- AWS services that monitor events and provide alarms (for example, CloudWatch, EventBridge)
+- AWS services that monitor events and provide alarms (for example, [CloudWatch](../services/cloudwatch/README.md), [EventBridge](../services/eventbridge/README.md))
 - AWS services that automate alerting (for example, Lambda, Amazon Simple Notification Service [Amazon SNS], Security Hub)
-- Tools that monitor metrics and baselines (for example GuardDuty, Systems Manager)
+- Tools that monitor metrics and baselines (for example x, Systems Manager)
 
 Skills in:
 - Analyzing architectures to identify monitoring requirements and sources of data for security monitoring
