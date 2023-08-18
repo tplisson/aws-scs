@@ -2,7 +2,7 @@
 - Offers detailed view of  AWS resources within AWS accounts
 - Provides historial tracking i.e. configuration recording timeline
 - NOT a preventive service
-- a regional service
+- a ***regional*** service
 - SNS integration
 
 ## Usage
@@ -22,8 +22,10 @@
   - point-in-time views of different attributes
 - Configuration Recorder
   - must create and start a recorder before configs are stored!
-- Aggregator
+- **Aggregator**
   - to aggregate views from multiple sources (regions, accounts, org...)  
+  - requires authorization
+  - centralized notification
 - Conformance Packs
   - Collection of Config rules & remediation actions deployed as a single entity
 
@@ -37,6 +39,8 @@ Evaluation Types:
 - configuration changes
 - Periodic
 - Compliance 
+  
 
- 
-
+<a align="center" href="https://docs.aws.amazon.com/config/latest/developerguide/aggregate-data.html">
+  <img src="img/aggregator.jgp" {:height="25%" width="25%"}>
+</a>
