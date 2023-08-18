@@ -40,7 +40,12 @@ Evaluation Types:
 - Periodic
 - Compliance 
   
+---  
 
 <a align="center" href="https://docs.aws.amazon.com/config/latest/developerguide/aggregate-data.html">
-  <img src="img/aggregator.jgp" {:height="25%" width="25%"}>
+  <img src="img
+/aggregator.jpg" {:height="25%" width="25%"}>
 </a>
+
+---  
+
