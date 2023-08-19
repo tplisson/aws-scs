@@ -11,20 +11,54 @@
 - Governance
 - Compliance
 - Managment
+  
+
+## Exam Tips
+- Auditing activities --> CloudTrail !
+- single and multi Region
+- KMS for customized encryption
+- Log validation
+- Management vs Data Events  
+- Integration with EventBridge
+  
 
 ## Encryption
 - by default S3 Server-Side Encryption (SSE) 
 - KMS support for compliance
 - SNS integration
   - **SNS notifications for log file deliveries to S3 and validation of the delivered files** (exam topic!) e.g. sending to SecOps teams
-
-## Exam terms
-
   
+
+## Management vs Data Events  
+= Control Plane vs Data Plane
+
+### Management Events 
+= Control Plane  
+
+- logged by default
+- all API calls
+- ConsoleLogin
+
+### Data Events
+= Data Plane  
+
+- not logged by default
+- huge amount of logs
+  
+## Limitations
+- **up to 5 trails per region**
+- first trail free, next are not (watch out usage & cost
+- Global services typically log as occuring in `us-east-1`
+
+## Events
+- Trigger alarms
+- Trigger EvenBridge
+- send notifications
+
 ---  
 
-<!-- Image
-![Image1](img/image1.jpg) -->
+Scenario
+![Scenario](img/scenario.jpg)
 
 ---  
 
