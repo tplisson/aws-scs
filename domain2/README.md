@@ -62,7 +62,7 @@ Skills in:
 
 Knowledge of:
 - Capabilities and use cases of AWS services that provide data sources (for example, log level, type, verbosity, cadence, timeliness, immutability)
-- AWS services and features that provide logging capabilities (for example, VPC Flow Logs, DNS logs, CloudTrail, [CloudWatch Logs](../services/cloudwatch/README.md))
+- AWS services and features that provide logging capabilities (for example, VPC Flow Logs, DNS logs, [CloudTrail](../services/cloudtrail/README.md), [CloudWatch Logs](../services/cloudwatch/README.md))
 - Access permissions that are necessary for logging 
 
 Skills in:
@@ -75,9 +75,8 @@ Skills in:
 
 Knowledge of:
 - Services and tools to analyze captured logs (for example, Athena, CloudWatch Logs filter)
-- Log analysis features of AWS services (for example, CloudWatch Logs Insights, CloudTrail
-Insights, Security Hub insights)
-- Log format and components (for example, CloudTrail logs)
+- Log analysis features of AWS services (for example, CloudWatch Logs Insights, [AWS CloudTrail Insights](../services/cloudtrail/README.md), Security Hub insights)
+- Log format and components (for example, [CloudTrail logs](../services/cloudtrail/README.md))
 
 Skills in:
 - Identifying patterns in logs to indicate anomalies and known threats
