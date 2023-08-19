@@ -47,7 +47,7 @@ Skills in:
 ## Task Statement 3: Design and implement a logging solution.
 
 Knowledge of:
-- AWS services and features that provide logging capabilities (for example, VPC Flow Logs, DNS logs, AWS CloudTrail, Amazon CloudWatch Logs)
+- AWS services and features that provide logging capabilities (for example, VPC Flow Logs, DNS logs, [AWS CloudTrail](../services/cloudtrail/README.md), Amazon CloudWatch Logs)
 - Attributes of logging capabilities (for example, log levels, type, verbosity)
 - Log destinations and lifecycle management (for example, retention period)
 
@@ -62,7 +62,7 @@ Skills in:
 
 Knowledge of:
 - Capabilities and use cases of AWS services that provide data sources (for example, log level, type, verbosity, cadence, timeliness, immutability)
-- AWS services and features that provide logging capabilities (for example, VPC Flow Logs, DNS logs, CloudTrail, CloudWatch Logs)
+- AWS services and features that provide logging capabilities (for example, VPC Flow Logs, DNS logs, CloudTrail, [CloudWatch Logs](../services/cloudwatch/README.md))
 - Access permissions that are necessary for logging 
 
 Skills in:
