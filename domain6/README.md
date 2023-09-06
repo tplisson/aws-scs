@@ -10,5 +10,8 @@
 | 3 | Evaluate the compliance of AWS resources
 | 4 | Identify security gaps through architectural reviews and cost analysis
 
+### TEST
+- [ ] available
+= [x] not available
 
 --- 
