@@ -11,7 +11,7 @@
 | 4 | Identify security gaps through architectural reviews and cost analysis
 
 ### TEST
-- [ ] available
-= [x] not available
+- [ ] available  
+- [x] not available
 
 --- 
