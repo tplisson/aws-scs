@@ -110,7 +110,7 @@ Note: Security affects all AWS services. Many services do not appear in this lis
 - AWS Certificate Manager (ACM)
 - AWS CloudHSM
 - AWS Directory Service
-- Amazon GuardDuty
+- [Amazon GuardDuty](services/guardduty/README.md)
 - AWS Identity and Access Management (IAM)
 - Amazon Inspector
 - AWS Key Management Service (AWS KMS)
