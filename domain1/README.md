@@ -13,13 +13,13 @@
 ## Task Statement 1: Design and implement an incident response plan
 
 Knowledge of:
-- AWS best practices for incident response
+- **AWS best practices for incident response**
   - Combine available controls, cloud capabilities and remediation options
   - Start small and iterate as you adopt automation capabilities
   - See [AWS Security Incident Response Guide](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/aws-security-incident-response-guide.html)
-- Cloud incidents
-- Roles and responsibilities in the incident response plan
-- AWS Security Finding Format (ASFF)
+- **Cloud incidents**
+- **Roles and responsibilities in the incident response plan**
+- **AWS Security Finding Format (ASFF)**
 
 
 Skills in:
@@ -32,10 +32,10 @@ Skills in:
 ## Task Statement 2: Detect security threats and anomalies by using AWS services. 
 
 Knowledge of:
-- AWS managed security services that detect threats
-- Anomaly and correlation techniques to join data across services
-- Visualizations to identify anomalies
-- Strategies to centralize security findings
+- **AWS managed security services that detect threats**
+- **Anomaly and correlation techniques to join data across services**
+- **Visualizations to identify anomalies**
+- **Strategies to centralize security findings**
 
 Skills in:
 - Evaluating findings from security services (for example, [Amazon GuardDuty](../services/guardduty/README.md), Security Hub, Macie, AWS Config, IAM Access Analyzer)
@@ -48,11 +48,12 @@ Amazon CloudWatch)
 ## Task Statement 3: Respond to compromised resources and workloads. 
 
 Knowledge of:
-- AWS Security Incident Response Guide
-- Resource isolation mechanisms
-- Techniques for root cause analysis
-- Data capture mechanisms
-- Log analysis for event validation 
+- **AWS Security Incident Response Guide**
+  - See [AWS Security Incident Response Guide](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/aws-security-incident-response-guide.html)
+- **Resource isolation mechanisms**
+- **Techniques for root cause analysis**
+- **Data capture mechanisms**
+- **Log analysis for event validation**
 
 Skills in:
 - Automating remediation by using AWS services (for example, AWS Lambda, AWS Step Functions, EventBridge, AWS Systems Manager runbooks, Security Hub, AWS Config)
