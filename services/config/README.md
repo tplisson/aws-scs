@@ -1,5 +1,9 @@
-# AWS Config
-<img src="../../images/Config.png" alt="Config" style="height: 100px; width:100px;"/>  
+# <img src="../../images/ConfigLogo.png" alt="Config" style="height: 50px; width:50px;"/>  AWS Config
+---  
+
+![Config Diagram](../../images/ConfigDiagram.png)
+
+---  
 
 - Offers detailed view of  AWS resources within AWS accounts
 - Provides ***historial tracking*** i.e. configuration recording timeline
@@ -51,4 +55,9 @@ Evaluation Types:
 ![Aggregator](../../images/ConfigAggregator.jpg)
 
 ---  
+## AWS Resources
 
+https://aws.amazon.com/config/
+
+Documentation  
+https://docs.aws.amazon.com/config/
