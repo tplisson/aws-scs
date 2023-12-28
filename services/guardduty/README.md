@@ -1,8 +1,10 @@
-# Amazon GuardDuty  <img src="../../images/GuardDuty.png" alt="GuardDuty" style="height: 50px; width:50px;"/>  
+# Amazon GuardDuty  <img src="../../images/GuardDutyLogo.png" alt="GuardDuty" style="height: 50px; width:50px;"/>  
 
 ---  
 
-![gardduty.png](img/gardduty.png)
+![GuardDuty.png](../../images/GuardDutyDiagram.png)
+
+<!-- ![gardduty.png](img/gardduty.png) -->
 
 ---  
 
