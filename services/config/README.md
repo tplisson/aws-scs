@@ -46,7 +46,8 @@ Evaluation Types:
 
 ---  
 
-Multi-Account Multi-Region Data Aggregation  
+### Multi-Account Multi-Region Data Aggregation  
+
 ![Aggregator](../../images/ConfigAggregator.jpg)
 
 ---  
