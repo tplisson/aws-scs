@@ -1,7 +1,11 @@
 # Amazon CloudWatch
 <img src="../../images/CloudWatch.png" alt="CloudWatch" style="height: 100px; width:100px;"/>  
 
+Features  
 https://aws.amazon.com/fr/cloudwatch/
+
+Documentation  
+https://docs.aws.amazon.com/cloudwatch/
 
 - **Logging and Monitoring**
   - within AWS and external (can send to CloudWatch)
