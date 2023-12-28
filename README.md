@@ -88,7 +88,7 @@ Note: Security affects all AWS services. Many services do not appear in this lis
 - AWS Audit Manager
 - [AWS CloudTrail](services/cloudtrail/README.md) 
 - [AWS CloudWatch](services/cloudwatch/README.md)
-- [AWS Config](services/config/README.md) <img src="images/ConfigLogo.png" alt="Config" style="height: 30px; width:30px;"/>
+- [AWS Config](services/config/README.md) <img src="images/ConfigLogo.png" alt="Config" style="height: 20px; width:20px;"/>
 - AWS Organizations
 - AWS Systems Manager
 - AWS Trusted Advisor
