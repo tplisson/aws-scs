@@ -1,4 +1,5 @@
-# Amazon GuardDuty <img src="../../images/GuardDuty.png" alt="GuardDuty" style="height: 100px; width:100px;"/>
+<img src="../../images/GuardDuty.png" alt="GuardDuty" style="height: 100px; width:100px;"/>
+# Amazon GuardDuty 
 
 - Managed ***Threat Detection*** service
 - Continuously monitoring for malicious or unauthorized activity
