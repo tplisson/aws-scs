@@ -37,10 +37,10 @@ Limitations:
 
    
 Example #1  
-![Example1](img/example1.jpg)
+![Example1](../../images/CloudWatchExample1.jpg)
 
 Example #2  
-![Example2](img/example2.jpg)
+![Example1](../../images/CloudWatchExample2.jpg)
 
 ## CloudWatch Agent   
 
@@ -74,9 +74,10 @@ CloudWatch Agent
 - Limitations: each log group can have up to 2 Subscription Filters
   
 ---  
+## AWS Links
 
 Features  
-https://aws.amazon.com/fr/cloudwatch/
+https://aws.amazon.com/cloudwatch/
 
 Documentation  
 https://docs.aws.amazon.com/cloudwatch/
