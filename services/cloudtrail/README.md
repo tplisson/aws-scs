@@ -1,4 +1,6 @@
 # AWS CloudTrail
+<img src="../../images/CloudTrail.png" alt="CloudTrail" style="height: 100px; width:100px;"/>  
+
 - ***records ANY action*** taken by users, roles or services via Console, AWS CLI and AWS SDK/APIs.
 - enabled by default with every account
 - events stored for 90 days by default
@@ -47,7 +49,7 @@
   
 ## Limitations
 - **up to 5 trails per region**
-- first trail free, next are not (watch out usage & cost
+- first trail free, next are not (watch out usage & cost)
 - Global services typically log as occuring in `us-east-1`
 
 ## Events
@@ -58,7 +60,7 @@
 ---  
 
 Scenario
-![Scenario](img/scenario.jpg)
+![Scenario](../../images/CloudTrailScenario.jpg)
 
 ---  
 
