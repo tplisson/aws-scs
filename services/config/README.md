@@ -1,4 +1,4 @@
-# <img src="../../images/ConfigLogo.png" alt="Config" style="height: 50px; width:50px;"/>  AWS Config
+# <img src="../../images/ConfigLogo.png" alt="Config" style="height: 30px; width:30px;"/>  AWS Config
 ---  
 
 ![Config Diagram](../../images/ConfigDiagram.png)
