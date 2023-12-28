@@ -1,3 +1,5 @@
+# AWS CloudTrail Alarm Creation
+
 Creating an alarm in AWS CloudTrail to alert you when the root account authenticates to the AWS Management Console is a good security practice, as the root account should be used sparingly and monitored closely due to its elevated privileges. Here's a step-by-step guide on how to set up such an alarm:
 
 1. **Sign in to the AWS Management Console:**

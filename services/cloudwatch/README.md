@@ -1,4 +1,6 @@
-# AWS CloudWatch
+# Amazon CloudWatch
+<img src="../../images/CloudWatch.png" alt="CloudWatch" style="height: 100px; width:100px;"/>  
+
 - **Logging and Monitoring**
   - within AWS and external (can send to CloudWatch)
 - **Centralized and Secured**
@@ -68,3 +70,5 @@ Agent
 - Limitations: each log group can have up to 2 Subscription Filters
   
 ---  
+
+![CloudWatch Diagram](../../images/CloudWatchDiagram.png)
