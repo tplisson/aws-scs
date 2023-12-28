@@ -1,12 +1,9 @@
 # Amazon CloudWatch
 <img src="../../images/CloudWatch.png" alt="CloudWatch" style="height: 100px; width:100px;"/>  
+---  
+![CloudWatch Diagram](../../images/CloudWatchDiagram.png)
 
-Features  
-https://aws.amazon.com/fr/cloudwatch/
-
-Documentation  
-https://docs.aws.amazon.com/cloudwatch/
-
+---  
 - **Logging and Monitoring**
   - within AWS and external (can send to CloudWatch)
 - **Centralized and Secured**
@@ -77,4 +74,8 @@ Agent
   
 ---  
 
-![CloudWatch Diagram](../../images/CloudWatchDiagram.png)
+Features  
+https://aws.amazon.com/fr/cloudwatch/
+
+Documentation  
+https://docs.aws.amazon.com/cloudwatch/
