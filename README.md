@@ -86,9 +86,9 @@ Note: Security affects all AWS services. Many services do not appear in this lis
 
 ### Management and Governance:  
 - AWS Audit Manager
-- [AWS CloudTrail](services/cloudtrail/README.md) 
-- [AWS CloudWatch](services/cloudwatch/README.md)
-- [AWS Config](services/config/README.md) <img src="images/ConfigLogo.png" alt="Config" style="height: 20px; width:20px;"/>
+- [AWS CloudTrail](services/cloudtrail/README.md) <img src="images/CloudTrailLogo.png" alt="CloudTrail logo" style="height: 20px; width:20px;"/>
+- [AWS CloudWatch](services/cloudwatch/README.md) <img src="images/CloudWatchLogo.png" alt="CloudWatch logo" style="height: 20px; width:20px;"/>
+- [AWS Config](services/config/README.md) <img src="images/ConfigLogo.png" alt="Config logo" style="height: 20px; width:20px;"/>
 - AWS Organizations
 - AWS Systems Manager
 - AWS Trusted Advisor
@@ -110,7 +110,7 @@ Note: Security affects all AWS services. Many services do not appear in this lis
 - AWS Certificate Manager (ACM)
 - AWS CloudHSM
 - AWS Directory Service
-- [Amazon GuardDuty](services/guardduty/README.md)
+- [Amazon GuardDuty](services/guardduty/README.md) <img src="images/GuardDutyLogo.png" alt="GuardDuty logo" style="height: 20px; 
 - AWS Identity and Access Management (IAM)
 - Amazon Inspector
 - AWS Key Management Service (AWS KMS)
