@@ -14,6 +14,7 @@
 
 Knowledge of:
 - **AWS best practices for incident response**
+  - [Aspects of AWS incident response](../../images/D1T1.png)
   - Combine available controls, cloud capabilities and remediation options
   - Start small and iterate as you adopt automation capabilities
   - See [AWS Security Incident Response Guide](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/aws-security-incident-response-guide.html)
@@ -50,6 +51,7 @@ Amazon CloudWatch)
 Knowledge of:
 - **AWS Security Incident Response Guide**
   - See [AWS Security Incident Response Guide](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/aws-security-incident-response-guide.html)
+  - [Aspects of AWS incident response](../../images/D1T1.png)
 - **Resource isolation mechanisms**
 - **Techniques for root cause analysis**
 - **Data capture mechanisms**
