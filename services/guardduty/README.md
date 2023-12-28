@@ -1,5 +1,11 @@
 # Amazon GuardDuty 
-![GuardDuty](../../images/GuardDuty.png)
+<!-- ![GuardDuty](../../images/GuardDuty.png) -->
+
+<p align="center">
+  <img src="../../images/GuardDuty.png">
+</p>
+<br/>
+
 - Managed ***Threat Detection*** service
 - Continuously monitoring for malicious or unauthorized activity
 - Smart detection:
