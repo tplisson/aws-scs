@@ -22,7 +22,7 @@ Skills in:
 - Implementing credential invalidation and rotation strategies in response to compromises (for example, by using AWS Identity and Access Management [IAM] and AWS Secrets Manager)
 - Isolating AWS resources
 - Designing and implementing playbooks and runbooks for responses to security incidents
-- Deploying security services (for example, AWS Security Hub, Amazon Macie, Amazon GuardDuty, Amazon Inspector, AWS Config, Amazon Detective, AWS Identity and Access Management Access Analyzer)
+- Deploying security services (for example, AWS Security Hub, Amazon Macie, [Amazon GuardDuty](../services/guardduty/README.md), Amazon Inspector, AWS Config, Amazon Detective, AWS Identity and Access Management Access Analyzer)
 - Configuring integrations with native AWS services and third-party services (for example, by using Amazon EventBridge and the ASFF)
 
 ## Task Statement 2: Detect security threats and anomalies by using AWS services. 
@@ -34,7 +34,7 @@ Knowledge of:
 - Strategies to centralize security findings
 
 Skills in:
-- Evaluating findings from security services (for example, GuardDuty, Security Hub, Macie, AWS Config, IAM Access Analyzer)
+- Evaluating findings from security services (for example, [Amazon GuardDuty](../services/guardduty/README.md), Security Hub, Macie, AWS Config, IAM Access Analyzer)
 - Searching and correlating security threats across AWS services (for example, by using Detective)
 - Performing queries to validate security events (for example, by using Amazon Athena)
 - Creating metric filters and dashboards to detect anomalous activity (for example, by using
