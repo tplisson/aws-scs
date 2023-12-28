@@ -21,10 +21,10 @@ Sample
 ---  
 ## AWS Resources
 
-https://aws.amazon.com/EventBridge/
+https://aws.amazon.com/eventbridge/
 
 Documentation  
-https://docs.aws.amazon.com/EventBridge/
+https://docs.aws.amazon.com/eventbridge/
 
 ---  
 
