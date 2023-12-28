@@ -40,7 +40,7 @@
 
 
 ---  
-## AWS Links
+## AWS Resources
 
 Features  
 https://aws.amazon.com/guardduty/

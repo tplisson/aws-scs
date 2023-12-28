@@ -74,7 +74,7 @@ CloudWatch Agent
 - Limitations: each log group can have up to 2 Subscription Filters
   
 ---  
-## AWS Links
+## AWS Resources
 
 Features  
 https://aws.amazon.com/cloudwatch/
