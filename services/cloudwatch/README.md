@@ -1,6 +1,7 @@
 # Amazon CloudWatch
 <img src="../../images/CloudWatch.png" alt="CloudWatch" style="height: 100px; width:100px;"/>  
 ---  
+
 ![CloudWatch Diagram](../../images/CloudWatchDiagram.png)
 
 ---  
