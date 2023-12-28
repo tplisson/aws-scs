@@ -1,4 +1,5 @@
-# Amazon GuardDuty
+# Amazon GuardDuty 
+![GuardDuty](../../images/GuardDuty.png)
 - Managed ***Threat Detection*** service
 - Continuously monitoring for malicious or unauthorized activity
 - Smart detection:
