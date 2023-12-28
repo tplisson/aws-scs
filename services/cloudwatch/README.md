@@ -59,8 +59,8 @@ Support for *Windows* and *Linux*
 - from `StatsD` & `collectD`
 
 
-Agent    
-![Agent](img/agent.jpg)
+CloudWatch Agent    
+![Agent](../../images/CloudWatchAgent.jpg)
 
 
 ## Exam Tips
