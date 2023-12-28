@@ -59,11 +59,16 @@
 
 ---  
 
-Diagram
 ![CloudTrail Diagram](../../images/CloudTrailDiagram.png)
 
-Scenario
+Scenario jpg original 330kB
 ![Scenario](../../images/CloudTrailScenario.jpg)
+
+Scenario2 jpg 120kB
+![Scenario](../../images/CloudTrailScenario2.jpg)
+
+Scenario2 png 920kB
+![Scenario](../../images/CloudTrailScenario2.png)
 
 ---  
 
