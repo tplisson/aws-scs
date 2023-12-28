@@ -1,4 +1,6 @@
 # AWS Config
+<img src="../../images/Config.png" alt="Config" style="height: 100px; width:100px;"/>  
+
 - Offers detailed view of  AWS resources within AWS accounts
 - Provides ***historial tracking*** i.e. configuration recording timeline
 - ***DOES NOT prevent*** changes
