@@ -1,4 +1,4 @@
-## Domain 1	- Threat Detection and Incident Response (14%)
+# Domain 1	- Threat Detection and Incident Response (14%)
 
 ## Exam Objectives 
 
@@ -17,6 +17,18 @@ Knowledge of:
 - Cloud incidents
 - Roles and responsibilities in the incident response plan
 - AWS Security Finding Format (ASFF)
+
+### AWS best practices for incident response
+* Combine available controls, cloud capabilities and remediation options
+* Start small and iterate as you adopt automation capabilities
+
+See [AWS Security Incident Response Guide](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/aws-security-incident-response-guide.html)
+
+### Cloud incidents
+
+### Roles and responsibilities in the incident response plan
+
+### AWS Security Finding Format (ASFF)
 
 Skills in:
 - Implementing credential invalidation and rotation strategies in response to compromises (for example, by using AWS Identity and Access Management [IAM] and AWS Secrets Manager)
