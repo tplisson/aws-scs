@@ -59,6 +59,9 @@
 
 ---  
 
+Diagram
+![CloudTrail Diagram](../../images/CloudTrailDiagram.png)
+
 Scenario
 ![Scenario](../../images/CloudTrailScenario.jpg)
 
