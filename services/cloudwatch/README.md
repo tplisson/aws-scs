@@ -1,4 +1,4 @@
-# Amazon CloudWatch  <img src="../../images/CloudWatch.png" alt="CloudWatch" style="height: 50px; width:50px;"/>  
+# <img src="../../images/CloudWatchLogo.png" alt="CloudWatch" style="height: 50px; width:50px;"/>  Amazon CloudWatch  
 
 ---  
 

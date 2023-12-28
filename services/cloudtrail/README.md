@@ -1,5 +1,4 @@
-# AWS CloudTrail
-<img src="../../images/CloudTrail.png" alt="CloudTrail" style="height: 100px; width:100px;"/>  
+# <img src="../../images/CloudTrailLogo.png" alt="CloudTrail" style="height: 50px; width:50px;"/>  AWS CloudTrail
 
 - ***records ANY action*** taken by users, roles or services via Console, AWS CLI and AWS SDK/APIs.
 - enabled by default with every account
