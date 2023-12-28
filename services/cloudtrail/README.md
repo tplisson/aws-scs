@@ -1,5 +1,10 @@
 # <img src="../../images/CloudTrailLogo.png" alt="CloudTrail" style="height: 50px; width:50px;"/>  AWS CloudTrail
 
+---  
+
+![CloudWatch Diagram](../../images/CloudTrailDiagram.png)
+
+---  
 - ***records ANY action*** taken by users, roles or services via Console, AWS CLI and AWS SDK/APIs.
 - enabled by default with every account
 - events stored for 90 days by default
@@ -58,10 +63,15 @@
 
 ---  
 
-![CloudTrail Diagram](../../images/CloudTrailDiagram.png)
-
 ### Scenario  
 ![Scenario](../../images/CloudTrailScenario.png)
 
 ---  
 
+## AWS Links
+
+Features  
+https://aws.amazon.com/cloudtrail/
+
+Documentation  
+https://docs.aws.amazon.com/cloudtrail/

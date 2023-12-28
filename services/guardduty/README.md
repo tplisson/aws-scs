@@ -4,8 +4,6 @@
 
 ![GuardDuty.png](../../images/GuardDutyDiagram.png)
 
-<!-- ![gardduty.png](img/gardduty.png) -->
-
 ---  
 
 - Managed ***Threat Detection*** service
@@ -40,6 +38,15 @@
 - Detectors
   - 
 
+
+---  
+## AWS Links
+
+Features  
+https://aws.amazon.com/guardduty/
+
+Documentation  
+https://docs.aws.amazon.com/guardduty/
 
 
 ---  
