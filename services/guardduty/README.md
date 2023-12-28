@@ -1,4 +1,4 @@
-# Amazon GuardDuty  <img src="../../images/GuardDutyLogo.png" alt="GuardDuty" style="height: 50px; width:50px;"/>  
+# <img src="../../images/GuardDutyLogo.png" alt="GuardDuty" style="height: 50px; width:50px;"/>  Amazon GuardDuty  
 
 ---  
 
