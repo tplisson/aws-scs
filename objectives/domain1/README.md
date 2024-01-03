@@ -12,7 +12,7 @@
 
 ## Task Statement 1: Design and implement an incident response plan
 
-<img src="../images/D1T1.png" alt="Aspects of AWS incident response" style="height: 300px; width:auto;"/>
+<img src="../../images/D1T1.png" alt="Aspects of AWS incident response" style="height: 300px; width:auto;"/>
 
 Knowledge of:
 - **AWS best practices for incident response**
