@@ -17,7 +17,7 @@
 ## Task Statement 1: Design and implement monitoring and alerting to address security events. 
 
 Knowledge of:
-- AWS services that monitor events and provide alarms (for example, [CloudWatch](../services/cloudwatch/README.md), [EventBridge](../services/eventbridge/README.md))
+- AWS services that monitor events and provide alarms (for example, [CloudWatch](../../services/cloudwatch/README.md), [EventBridge](../../services/eventbridge/README.md))
 - AWS services that automate alerting (for example, Lambda, Amazon Simple Notification Service [Amazon SNS], Security Hub)
 - Tools that monitor metrics and baselines (for example x, Systems Manager)
 
@@ -47,7 +47,7 @@ Skills in:
 ## Task Statement 3: Design and implement a logging solution.
 
 Knowledge of:
-- AWS services and features that provide logging capabilities (for example, VPC Flow Logs, DNS logs, [AWS CloudTrail](../services/cloudtrail/README.md), Amazon CloudWatch Logs)
+- AWS services and features that provide logging capabilities (for example, VPC Flow Logs, DNS logs, [AWS CloudTrail](../../services/cloudtrail/README.md), Amazon CloudWatch Logs)
 - Attributes of logging capabilities (for example, log levels, type, verbosity)
 - Log destinations and lifecycle management (for example, retention period)
 
@@ -62,7 +62,7 @@ Skills in:
 
 Knowledge of:
 - Capabilities and use cases of AWS services that provide data sources (for example, log level, type, verbosity, cadence, timeliness, immutability)
-- AWS services and features that provide logging capabilities (for example, VPC Flow Logs, DNS logs, [CloudTrail](../services/cloudtrail/README.md), [CloudWatch Logs](../services/cloudwatch/README.md))
+- AWS services and features that provide logging capabilities (for example, VPC Flow Logs, DNS logs, [CloudTrail](../../services/cloudtrail/README.md), [CloudWatch Logs](../../services/cloudwatch/README.md))
 - Access permissions that are necessary for logging 
 
 Skills in:
@@ -75,8 +75,8 @@ Skills in:
 
 Knowledge of:
 - Services and tools to analyze captured logs (for example, Athena, CloudWatch Logs filter)
-- Log analysis features of AWS services (for example, CloudWatch Logs Insights, [AWS CloudTrail Insights](../services/cloudtrail/README.md), Security Hub insights)
-- Log format and components (for example, [CloudTrail logs](../services/cloudtrail/README.md))
+- Log analysis features of AWS services (for example, CloudWatch Logs Insights, [AWS CloudTrail Insights](../../services/cloudtrail/README.md), Security Hub insights)
+- Log format and components (for example, [CloudTrail logs](../../services/cloudtrail/README.md))
 
 Skills in:
 - Identifying patterns in logs to indicate anomalies and known threats
