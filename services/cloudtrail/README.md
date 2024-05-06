@@ -21,7 +21,7 @@
 
 ## Exam Tips
 - Auditing activities --> CloudTrail !
-- single and multi Region
+- Single and Multi Region
 - KMS for customized encryption
 - Log validation
 - Management vs Data Events  
@@ -36,17 +36,17 @@
   
 
 ## Management vs Data Events  
-= Control Plane vs Data Plane
+[Control Plane vs Data Plane]  
 
 ### Management Events 
-= Control Plane  
+[Control Plane]  
 
 - logged by default
 - all API calls
 - ConsoleLogin
 
 ### Data Events
-= Data Plane  
+[Data Plane]  
 
 - not logged by default
 - huge amount of logs

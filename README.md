@@ -16,7 +16,7 @@
 | Section                  |
 | ------------------------ | 
 | [Exam Details](#exam-details)  |  
-| [Exam Objectives as of Aug 2023](#exam-objectives-as-of-aug-2023)  |  
+| [Exam Objectives as of May 2024](#exam-objectives-as-of-may-2024)  |  
 | [Which key tools, technologies, and concepts might be covered on the exam?](#which-key-tools-technologies-and-concepts-might-be-covered-on-the-exam)  |  
 | [AWS services and features](#aws-services-and-features)  |  
 | [Out-of-scope AWS services and features](#out-of-scope-aws-services-and-features)  |  
@@ -37,38 +37,38 @@ Expiration |	3 years
 
 ---  
 
-## [Exam Objectives as of Aug 2023](https://d1.awsstatic.com/training-and-certification/docs-security-spec/AWS-Certified-Security-Specialty_Exam-Guide.pdf)
+## [Exam Objectives as of May 2024](https://d1.awsstatic.com/training-and-certification/docs-security-spec/AWS-Certified-Security-Specialty_Exam-Guide.pdf)
 
 | Task Statement | Exam Objective     | 
 | ------------------------ | ------------------ | 
 | **Domain 1** | [**Threat Detection and Incident Response (14%)**](objectives/domain1/README.md)
-| 1 | [Design and implement an incident response plan](objectives/domain1/README.md#task-statement-1-design-and-implement-an-incident-response-plan)
-| 2 | [Detect security threats and anomalies by using AWS services](objectives/domain1/README.md#task-statement-2-detect-security-threats-and-anomalies-by-using-aws-services)
-| 3 | [Respond to compromised resources and workloads](objectives/domain1/README.md#task-statement-3-respond-to-compromised-resources-and-workloads)
+| 1.1 | [Design and implement an incident response plan](objectives/domain1/README.md#task-statement-1-design-and-implement-an-incident-response-plan)
+| 1.2 | [Detect security threats and anomalies by using AWS services](objectives/domain1/README.md#task-statement-2-detect-security-threats-and-anomalies-by-using-aws-services)
+| 1.3 | [Respond to compromised resources and workloads](objectives/domain1/README.md#task-statement-3-respond-to-compromised-resources-and-workloads)
 | **Domain 2** | [**Security Logging and Monitoring (18%)**](objectives/domain2/README.md) 
-| 1 | [Design and implement monitoring and alerting to address security events](objectives/domain2/README.md#task-statement-1-design-and-implement-monitoring-and-alerting-to-address-security-events)
-| 2 | [Troubleshoot security monitoring and alerting](objectives/domain2/README.md#task-statement-2-troubleshoot-security-monitoring-and-alerting)
-| 3 | [Design and implement a logging solution](objectives/domain2/README.md#task-statement-3-design-and-implement-a-logging-solution)
-| 4 | [Troubleshoot logging solutions](objectives/domain2/README.md#task-statement-4-troubleshoot-logging-solutions)
-| 5 | [Design a log analysis solution](objectives/domain2/README.md#task-statement-5-design-a-log-analysis-solution)
+| 2.1 | [Design and implement monitoring and alerting to address security events](objectives/domain2/README.md#task-statement-1-design-and-implement-monitoring-and-alerting-to-address-security-events)
+| 2.2 | [Troubleshoot security monitoring and alerting](objectives/domain2/README.md#task-statement-2-troubleshoot-security-monitoring-and-alerting)
+| 2.3 | [Design and implement a logging solution](objectives/domain2/README.md#task-statement-3-design-and-implement-a-logging-solution)
+| 2.4 | [Troubleshoot logging solutions](objectives/domain2/README.md#task-statement-4-troubleshoot-logging-solutions)
+| 2.5 | [Design a log analysis solution](objectives/domain2/README.md#task-statement-5-design-a-log-analysis-solution)
 | **Domain 3** | [**Infrastructure Security (20%)**](objectives/domain3/README.md)
-| 1 | Design and implement security controls for edge services
-| 2 | Design and implement network security controls 
-| 3 | Design and implement security controls for compute workloads 
-| 4 | Troubleshoot network security
+| 3.1 | Design and implement security controls for edge services
+| 3.2 | Design and implement network security controls 
+| 3.3 | Design and implement security controls for compute workloads 
+| 3.4 | Troubleshoot network security
 | **Domain 4** | [**Identity and Access Management (16%)**](objectives/domain4/README.md)
-| 1 | Design, implement, and troubleshoot authentication for AWS resources
-| 2 | Design, implement, and troubleshoot authorization for AWS resources
+| 4.1 | Design, implement, and troubleshoot authentication for AWS resources
+| 4.2 | Design, implement, and troubleshoot authorization for AWS resources
 | **Domain 5** | [**Data Protection (18%)**](objectives/domain5/README.md)
-| 1 | Design and implement controls that provide confidentiality and integrity for data in transit
-| 2 | Design and implement controls that provide confidentiality and integrity for data at rest
-| 3 | Design and implement controls to manage the lifecycle of data at rest
-| 4 | Design and implement controls to protect credentials, secrets, and cryptographic key materials
+| 5.1 | Design and implement controls that provide confidentiality and integrity for data in transit
+| 5.2 | Design and implement controls that provide confidentiality and integrity for data at rest
+| 5.3 | Design and implement controls to manage the lifecycle of data at rest
+| 5.4 | Design and implement controls to protect credentials, secrets, and cryptographic key materials
 | **Domain 6** | [**Threat Detection and Incident Response (14%)**](objectives/domain6/README.md)
-| 1 | Develop a strategy to centrally deploy and manage AWS accounts
-| 2 | Implement a secure and consistent deployment strategy for cloud resources
-| 3 | Evaluate the compliance of AWS resources
-| 4 | Identify security gaps through architectural reviews and cost analysis
+| 6.1 | Develop a strategy to centrally deploy and manage AWS accounts
+| 6.2 | Implement a secure and consistent deployment strategy for cloud resources
+| 6.3 | Evaluate the compliance of AWS resources
+| 6.4 | Identify security gaps through architectural reviews and cost analysis
 
 
 
