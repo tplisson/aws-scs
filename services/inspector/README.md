@@ -44,9 +44,9 @@
 
 ---  
 ## Findings Status
-- Active
-- Suppressed
-- Closed
+- Active = not remediated
+- Suppressed = active but ignored
+- Closed = remediated
 
 
 <!-- ---   -->
