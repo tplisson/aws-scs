@@ -30,7 +30,7 @@ Skills in:
 - Isolating AWS resources
 - Designing and implementing playbooks and runbooks for responses to security incidents
 - Deploying security services (for example, [AWS Security Hub](../../services/securityhub/README.md), [Amazon Macie](../../services/macie/README.md), [Amazon GuardDuty](../../services/guardduty/README.md), Amazon Inspector, [AWS Config](../../services/config/README.md), Amazon Detective, [AWS Identity and Access Management Access Analyzer](../../services/iamanalyzer/README.md))
-- Configuring integrations with native AWS services and third-party services (for example, by using Amazon EventBridge and the [ASFF](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format.html))
+- Configuring integrations with native AWS services and third-party services (for example, by using [Amazon EventBridge](../../services/eventbridge/README.md) and the [ASFF](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format.html))
 
 ## Task Statement 1.2: Detect security threats and anomalies by using AWS services. 
 
@@ -60,7 +60,7 @@ Knowledge of:
 - **Log analysis for event validation**
 
 Skills in:
-- Automating remediation by using AWS services (for example, AWS Lambda, AWS Step Functions, EventBridge, AWS Systems Manager runbooks, [Security Hub](../../services/securityhub/README.md), [AWS Config](../../services/config/README.md))
+- Automating remediation by using AWS services (for example, AWS Lambda, AWS Step Functions, [EventBridge](../../services/eventbridge/README.md), AWS Systems Manager runbooks, [Security Hub](../../services/securityhub/README.md), [AWS Config](../../services/config/README.md))
 - Responding to compromised resources (for example, by isolating Amazon EC2 instances)
 - Investigating and analyzing to conduct root cause analysis (for example, by using Detective)
 - Capturing relevant forensics data from a compromised resource (for example, Amazon Elastic
