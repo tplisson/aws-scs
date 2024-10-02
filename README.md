@@ -16,7 +16,7 @@
 | Section                  |
 | ------------------------ | 
 | [Exam Details](#exam-details)  |  
-| [Exam Objectives as of May 2024](#exam-objectives-as-of-may-2024)  |  
+| [Exam Objectives as of Oct 2024](#exam-objectives-as-of-oct-2024)  |  
 | [Which key tools, technologies, and concepts might be covered on the exam?](#which-key-tools-technologies-and-concepts-might-be-covered-on-the-exam)  |  
 | [AWS services and features](#aws-services-and-features)  |  
 | [Out-of-scope AWS services and features](#out-of-scope-aws-services-and-features)  |  
@@ -37,7 +37,7 @@ Expiration |	3 years
 
 ---  
 
-## [Exam Objectives as of May 2024](https://d1.awsstatic.com/training-and-certification/docs-security-spec/AWS-Certified-Security-Specialty_Exam-Guide.pdf)
+## [Exam Objectives as of Oct 2024](https://d1.awsstatic.com/training-and-certification/docs-security-spec/AWS-Certified-Security-Specialty_Exam-Guide.pdf)
 
 | Task Statement | Exam Objective     | 
 | ------------------------ | ------------------ | 

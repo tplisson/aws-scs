@@ -10,7 +10,7 @@
 | 3 | [Respond to compromised resources and workloads](#task-statement-3-respond-to-compromised-resources-and-workloads)
 
 
-## Task Statement 1: Design and implement an incident response plan
+## Task Statement 1.1: Design and implement an incident response plan
 
 <img src="../../images/D1T1.png" alt="Aspects of AWS incident response" style="height: 300px; width:auto;"/>
 
@@ -26,13 +26,13 @@ Knowledge of:
 
 
 Skills in:
-- Implementing credential invalidation and rotation strategies in response to compromises (for example, by using AWS Identity and Access Management [IAM] and AWS Secrets Manager)
+- Implementing credential invalidation and rotation strategies in response to compromises (for example, by using AWS Identity and Access Management [IAM] and [AWS Secrets Manager](../../services/secretsmgr/README.md))
 - Isolating AWS resources
 - Designing and implementing playbooks and runbooks for responses to security incidents
-- Deploying security services (for example, AWS Security Hub, Amazon Macie, [Amazon GuardDuty](../../services/guardduty/README.md), Amazon Inspector, AWS Config, Amazon Detective, AWS Identity and Access Management Access Analyzer)
+- Deploying security services (for example, AWS Security Hub, [Amazon Macie](../../services/macie/README.md), [Amazon GuardDuty](../../services/guardduty/README.md), Amazon Inspector, [AWS Config](../../services/config/README.md), Amazon Detective, [AWS Identity and Access Management Access Analyzer](../../services/iamanalyzer/README.md))
 - Configuring integrations with native AWS services and third-party services (for example, by using Amazon EventBridge and the ASFF)
 
-## Task Statement 2: Detect security threats and anomalies by using AWS services. 
+## Task Statement 1.2: Detect security threats and anomalies by using AWS services. 
 
 Knowledge of:
 - **AWS managed security services that detect threats**
@@ -41,14 +41,14 @@ Knowledge of:
 - **Strategies to centralize security findings**
 
 Skills in:
-- Evaluating findings from security services (for example, [Amazon GuardDuty](../../services/guardduty/README.md), Security Hub, Macie, AWS Config, IAM Access Analyzer)
+- Evaluating findings from security services (for example, [Amazon GuardDuty](../../services/guardduty/README.md), [Security Hub](../../services/securityhub/README.md), [Macie](../../services/macie/README.md), [AWS Config](../../services/config/README.md), [IAM Access Analyzer](../../services/iamanalyzer/README.md))
 - Searching and correlating security threats across AWS services (for example, by using Detective)
 - Performing queries to validate security events (for example, by using Amazon Athena)
 - Creating metric filters and dashboards to detect anomalous activity (for example, by using
 Amazon CloudWatch)  
 
 
-## Task Statement 3: Respond to compromised resources and workloads. 
+## Task Statement 1.3: Respond to compromised resources and workloads. 
 
 Knowledge of:
 - **AWS Security Incident Response Guide**

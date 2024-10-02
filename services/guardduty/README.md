@@ -5,8 +5,9 @@
 ![GuardDuty.png](../../images/GuardDutyDiagram.png)
 
 ---  
-
+## Overview  
 - Managed ***Threat Detection*** service
+  - Detection, not prevention
 - ***Continuous security monitoring***  
   - for malicious or unauthorized activity
 - Smart detection:
@@ -23,6 +24,7 @@
   - what AWS resources is involved
   - who is the actor
   - EventBridge integration
+    - Best-effort basis ! (not guaranteed)
 - Organizations: delegated administrator account
 
 ## Usage
@@ -33,10 +35,14 @@
 - in Org: delegated admin account
   - all findings are centralized and aggregated
 
-## Exam terms
+Common findings:
+- Brute-Force attacks on EC2 
+- Compromised EC2
+- Suspicious Access Patterns
 
-  
+
 ---  
+## Concepts
 
 - Detectors  
   - unique identities  
@@ -56,6 +62,15 @@
 
 - Threat Lists  
   - Known malicious IP addresses  
+
+---  
+## Exam Tips
+- **Suspend** (pause) 
+  - Stops all new monitoring
+- **Stop** = configs are lost ! 
+  - Watch out! 
+  - Export before stopping if needed
+
 
 ---  
 ## AWS Resources
