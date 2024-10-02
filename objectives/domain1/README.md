@@ -44,8 +44,7 @@ Skills in:
 - Evaluating findings from security services (for example, [Amazon GuardDuty](../../services/guardduty/README.md), [Security Hub](../../services/securityhub/README.md), [Macie](../../services/macie/README.md), [AWS Config](../../services/config/README.md), [IAM Access Analyzer](../../services/iamanalyzer/README.md))
 - Searching and correlating security threats across AWS services (for example, by using Detective)
 - Performing queries to validate security events (for example, by using Amazon Athena)
-- Creating metric filters and dashboards to detect anomalous activity (for example, by using
-Amazon CloudWatch)  
+- Creating metric filters and dashboards to detect anomalous activity (for example, by using [Amazon CloudWatch](../../services/cloudwatch/README.md))  
 
 
 ## Task Statement 1.3: Respond to compromised resources and workloads. 
