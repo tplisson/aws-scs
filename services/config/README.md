@@ -47,11 +47,20 @@ Rules
 - Managed Rules (predefined but customizable)
 - Custom Rules (using Lambda)
 
-Evaluation Types:
-- configuration changes
+Trigger Types:
+- Configuration changes
 - Periodic
-- Compliance (mark as compliant or noncompliant)
+- Hybrid
+- ? Compliance (mark as compliant or noncompliant)
   
+Evaluation Modes:
+- Proactive mode  
+  - evaluate resources before they have been deployed
+  - COMPLIANT or NON_COMPLIANT
+- Detective mode
+  - evaluate resources that have already been deployed
+  - 
+
 ---  
 ## Example using Multi-Account / Multi-Region Data Aggregation  
 

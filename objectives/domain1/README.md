@@ -61,6 +61,10 @@ Knowledge of:
 Skills in:
 - Automating remediation by using AWS services (for example, AWS Lambda, AWS Step Functions, [EventBridge](../../services/eventbridge/README.md), AWS Systems Manager runbooks, [Security Hub](../../services/securityhub/README.md), [AWS Config](../../services/config/README.md))
 - Responding to compromised resources (for example, by isolating Amazon EC2 instances)
+  - Identify 
+  - Review (API call & check legitimacy)
+  - Stop EC2 instances(or terminate & replace if needed)
+  - Use 3rd-party vendors & marketplace
 - Investigating and analyzing to conduct root cause analysis (for example, by using Detective)
 - Capturing relevant forensics data from a compromised resource (for example, Amazon Elastic
 Block Store [Amazon EBS] volume snapshots, memory dump)
