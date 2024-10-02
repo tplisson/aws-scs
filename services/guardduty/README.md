@@ -7,7 +7,8 @@
 ---  
 
 - Managed ***Threat Detection*** service
-- Continuously monitoring for malicious or unauthorized activity
+- ***Continuous security monitoring***  
+  - for malicious or unauthorized activity
 - Smart detection:
   - threat intelligence feeds
   - ML behavioral modeling
@@ -21,6 +22,8 @@
   - when it happened
   - what AWS resources is involved
   - who is the actor
+  - EventBridge integration
+- Organizations: delegated administrator account
 
 ## Usage
 - Security
@@ -35,9 +38,24 @@
   
 ---  
 
-- Detectors
-  - 
+- Detectors  
+  - unique identities  
+  - regional & unique  
 
+- Data Sources  
+  - origin * location  
+
+- Findings  
+  - potential security issues  
+
+- Suppression Rules  
+  - to suppress certain findings  
+
+- Trusted IP Lists  
+  - GuardDuty will NOT generate findings from it  
+
+- Threat Lists  
+  - Known malicious IP addresses  
 
 ---  
 ## AWS Resources
