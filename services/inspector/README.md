@@ -5,10 +5,48 @@
 
 ---  
 ## Overview  
-- 
+- Automatic **vulnerability scans**
+- Generates findings reported via lists
+- Generates assessment reports
 
-## Usage  
-- 
+---  
+## Exam topics
+- Centalized managment
+  - single delegated account in OU
+- Automatic discovery and scanning of eligible resources 
+  - Avoid manual steps
+  - EC2 instances
+  - ECR images
+- Findings
+- Tailored scores based on NVD/CVSS
+
+
+---  
+## Assessment Types  
+- Triggered situations for EC2 Instances  
+  - New instance is launched
+  - New software installed on existing EC2 instances
+  - New EC2 insrtances discovered
+  - New vulnerability descovered
+- Network Assessment <-- Agentless every 24hrs
+- Host Assessment <-- SSM Agent required  
+
+---  
+## Intergrations
+- EventBridge
+- Security Hub
+- S3 Buckets <-- KMS key + permissions
+
+---  
+## Exported formations
+- CSV 
+- JSON 
+
+---  
+## Findings Status
+- Active
+- Suppressed
+- Closed
 
 
 <!-- ---   -->
