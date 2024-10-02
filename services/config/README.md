@@ -53,11 +53,7 @@ Evaluation Types:
 - Compliance (mark as compliant or noncompliant)
   
 ---  
-## Example    
-![Example](img/example.jpg)  
-
----  
-### Multi-Account Multi-Region Data Aggregation  
+## Example using Multi-Account / Multi-Region Data Aggregation  
 
 ![Aggregator](../../images/ConfigAggregator.jpg)
 
