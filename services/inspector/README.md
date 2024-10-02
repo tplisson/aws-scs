@@ -28,8 +28,8 @@
   - New software installed on existing EC2 instances
   - New EC2 insrtances discovered
   - New vulnerability descovered
-- Network Assessment <-- Agentless every 24hrs
-- Host Assessment <-- SSM Agent required  
+- **Network Assessment <-- Agentless every 24hrs**
+- **Host Assessment <-- SSM Agent required**  
 
 ---  
 ## Intergrations
