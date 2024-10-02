@@ -4,14 +4,19 @@
 ![Config Diagram](../../images/ConfigDiagram.png)
 
 ---  
-
+## Overview  
 - Offers detailed view of  AWS resources within AWS accounts
 - Provides ***historial tracking*** i.e. configuration recording timeline
-- ***DOES NOT prevent*** changes
-- a ***regional*** service
-- SNS integration
+- ***DOES NOT prevent*** changes <--
+- a ***regional*** service 
+- use ***Aggregators*** to collect across regions and across accounts
+- ***need to enable and start the recorder***, not enabled out-of-the-box
+- Using ***Rules***, managed or custom
+- Centralized notification
+- Remediation using EventBridge or Lambda
+- SNS integration for real-time notifications
 
-## Usage
+## Usage  
 - Audit and Compliance, Governance
   - main usage
   - detailed autiting info for resource changes
@@ -21,14 +26,14 @@
 - Security Analysis
   - view low level changes to resources
 
-## Exam terms
+## Exam terms  
 - Resources
   - any entity managed by AWS
-- Configuration History
+- Configuration History = timeline
 - Configuration Items
   - point-in-time views of different attributes
 - Configuration **Recorder**
-  - must create and start a recorder before configs are stored!
+  - must create and start a recorder before configs are stored! <--
 - **Aggregator**
   - to aggregate views from multiple sources for multi-account, multi-region deployments 
   - requires authorization
@@ -36,26 +41,28 @@
 - Conformance Packs
   - Collection of Config rules & remediation actions deployed as a single entity
 
-## Config Rules
+## Config Rules  
 
 Rules 
-- Managed Rules (preset packages)
+- Managed Rules (predefined but customizable)
 - Custom Rules (using Lambda)
 
 Evaluation Types:
 - configuration changes
 - Periodic
-- Compliance 
+- Compliance (mark as compliant or noncompliant)
   
+---  
+## Example    
+![Example](img/example.jpg)  
 
 ---  
-
 ### Multi-Account Multi-Region Data Aggregation  
 
 ![Aggregator](../../images/ConfigAggregator.jpg)
 
 ---  
-## AWS Resources
+## AWS Resources  
 
 https://aws.amazon.com/config/
 

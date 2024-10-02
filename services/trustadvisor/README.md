@@ -9,7 +9,7 @@
 AWS Trusted Advisor inspect your AWS environment *at the account level* and offers **recommendations** *based on industry best practices*.
 
 ## Support Plan
-- Basic | Developer support = limited to 6 checks
+- Basic | Developer support = limited to 6 free checks
 - Enterprise support = full access to all Trusted Advisor checks, far more details + integration with CloudWatch and EventBridge
 
 
@@ -21,7 +21,7 @@ AWS Trusted Advisor inspect your AWS environment *at the account level* and offe
 4. Fault Tolerance
 5. Service Limits
 
-...and...  
+and...  
 
 6. Operational Excellence (now available but maybe not at the time when the exam was written?)
 

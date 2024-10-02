@@ -64,7 +64,7 @@ Expiration |	3 years
 | 5.2 | Design and implement controls that provide confidentiality and integrity for data at rest
 | 5.3 | Design and implement controls to manage the lifecycle of data at rest
 | 5.4 | Design and implement controls to protect credentials, secrets, and cryptographic key materials
-| **Domain 6** | [**Threat Detection and Incident Response (14%)**](objectives/domain6/README.md)
+| **Domain 6** | [**Management and Security Governance (14%)**](objectives/domain6/README.md)
 | 6.1 | Develop a strategy to centrally deploy and manage AWS accounts
 | 6.2 | Implement a secure and consistent deployment strategy for cloud resources
 | 6.3 | Evaluate the compliance of AWS resources
