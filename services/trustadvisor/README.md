@@ -21,7 +21,7 @@ AWS Trusted Advisor inspect your AWS environment *at the account level* and offe
 4. Fault Tolerance
 5. Service Limits
 
-+
+...and...
 6. Operational Excellence (now available but maybe not at the time when the exam was written?)
 
 
