@@ -7,6 +7,7 @@
 ## Overview  
 - Cloud Security Posture Management (CSPM) tool
 
+
 ---  
 ## Exam topics
 - 
@@ -29,4 +30,4 @@
 https://aws.amazon.com/security-hub/
 
 Documentation  
-https://docs.aws.amazon.com/security-hub/
+https://docs.aws.amazon.com/securityhub/
