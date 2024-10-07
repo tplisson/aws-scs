@@ -1,7 +1,7 @@
 # <img src="../../images/InspectorLogo.png" alt="Inspector" style="height: 50px; width:50px;"/>  Amazon Inspector
 ---  
 
-![Inspector Diagram](../../images/InspectorDiagram.png)
+![Amazon Inspector Diagram](../../images/InspectorDiagram.png)
 
 ---  
 ## Overview  
@@ -11,14 +11,14 @@
 
 ---  
 ## Exam topics
-- Centalized managment
-  - single delegated account in OU
 - Automatic discovery and scanning of eligible resources 
   - Avoid manual steps
   - EC2 instances
   - ECR images
-- Findings
-- Tailored scores based on NVD/CVSS
+  - LAmbda functions
+- Centalized managment for OU (optional)
+  - single delegated account in OU
+- Findings generated with tailored scores based on NVD/CVSS
 
 
 ---  
@@ -38,7 +38,7 @@
 - S3 Buckets <-- KMS key + permissions
 
 ---  
-## Exported formations
+## Exported formats
 - CSV 
 - JSON 
 
