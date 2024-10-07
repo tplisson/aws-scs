@@ -12,6 +12,15 @@
 - 
 
 
+---  
+## Systems Manager's Capabilities
+- Application Management
+- Change Management
+- Operations Management
+- Shared Resources
+- Node Management
+
+
 
 <!-- ---   -->
 <!-- ## Example  -->
