@@ -127,7 +127,12 @@ The following is a non-exhaustive list of AWS services and features that are not
 - Migration and transfer services
 
 
-## Resources
+## AWS Resources
 - [AWS Security Reference Architecture (AWS SRA)](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html)
 
+## AWS-SCS-C02 Learning Resources
+- [A Cloud Guru AWS-SCS-C02](https://learn.acloud.guru/course/aws-certified-security-specialty-scs-c02/)
+- [Stephane Maarek’s updated Udemy course](https://www.udemy.com/course/ultimate-aws-certified-security-specialty/)
+- [Cantrill](https://learn.cantrill.io/p/aws-certified-security-specialty)
+- [Tutorials Dojo practice exams](https://portal.tutorialsdojo.com/courses/aws-certified-security-specialty-practice-exams-scs-c02/)
 ---  

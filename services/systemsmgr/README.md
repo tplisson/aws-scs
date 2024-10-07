@@ -1,11 +1,11 @@
 # <img src="../../images/SystemsManagerLogo.png" alt="AWS Systems Manager" style="height: 50px; width:50px;"/>  AWS Systems Manager
 ---  
 
-![AWS Systems Manager Diagram](../../images/SystemsMgrDiagram.png)
+<!-- ![AWS Systems Manager Diagram](../../images/SystemsMgrDiagram.png) -->
 
 ---  
 ## Overview  
-- 
+- Set of AWS tools for 
 
 ---  
 ## Exam topics
