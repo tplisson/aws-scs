@@ -6,23 +6,32 @@
 
 ---  
 ## Overview  
-- Managed ***Threat Detection*** service
-  - Detection, not prevention
+Managed ***Threat Detection*** service
+- Detection, not prevention
+- agentless 
+- Regional service
+  - must be enabled in each region
+- Corst based on amount of input data analyzed
 
 <img src="../../images/GuardDutyDiagram2.png" alt="Amazon GuardDuty Operations" style="height: 500px; width:550px;"/>
 
 - ***Continuous security monitoring***  
   - for malicious or unauthorized activity
-- Regional service
 - Smart detection:
   - threat intelligence feeds
   - ML behavioral modeling
-- Using multiple **data sources**:
-  - AWS CloudTrail event logs
-  - AWS CloudTrail management events
-  - VPC Flow Logs (EC2 instances)
-  - DNS logs
-- Generating **findings**:
+
+### Data Sources  
+Using multiple **data sources**:
+- AWS CloudTrail event logs
+- AWS CloudTrail management events
+- VPC Flow Logs (EC2 instances)
+- S3 data event logs
+- EKS audit logs
+- DNS logs
+
+### Findings  
+Generating **findings**:
   - what happened
   - when it happened
   - what AWS resources is involved
@@ -32,18 +41,23 @@
 - Organizations: delegated administrator account
 
 ## Usage
-- Security
-- Identity
+- Aggregating and analyzing logs to identify unusual activity
 - Compliance
 - Automation through EvenBridge integration
 - in Org: delegated admin account
   - all findings are centralized and aggregated
 
-Common findings:
+## Integration
+Optional automated response 
+
+<img src="../../images/GuardDutyIntegrations.png" alt="Amazon GuardDuty Integration with CloudWatch & Lambda" style="height: 1057px; width:400px;"/>
+
+## Use Cases
+Detecting:
 - Brute-Force attacks on EC2 
 - Compromised EC2
 - Suspicious Access Patterns
-
+... etc.
 
 ---  
 ## Concepts
@@ -74,7 +88,8 @@ Common findings:
 - **Stop** = configs are lost ! 
   - Watch out! 
   - Export before stopping if needed
-
+- Detection only, not prevention
+  - for automated remediation, use AWS Security Hub, Amazon EventBridge, AWS Lambda, and AWS Step Functions  
 
 ---  
 ## AWS Resources
