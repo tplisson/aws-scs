@@ -2,14 +2,18 @@
 
 ---  
 
-![GuardDuty.png](../../images/GuardDutyDiagram.png)
+![GuardDutyDiagram1.png](../../images/GuardDutyDiagram1.png)
 
 ---  
 ## Overview  
 - Managed ***Threat Detection*** service
   - Detection, not prevention
+
+![GuardDutyDiagram2.png](../../images/GuardDutyDiagram2.png)
+
 - ***Continuous security monitoring***  
   - for malicious or unauthorized activity
+- Regional service
 - Smart detection:
   - threat intelligence feeds
   - ML behavioral modeling
