@@ -9,8 +9,7 @@
 - Managed ***Threat Detection*** service
   - Detection, not prevention
 
-![GuardDutyDiagram2.png](../../images/GuardDutyDiagram2.png)
-<!-- <img src="../../images/GuardDutyDiagram2.png" alt="GuardDutyDiagram2" style="height: 500px; width:550px;"/> -->
+<img src="../../images/GuardDutyDiagram2.png" alt="GuardDutyDiagram2" style="height: 500px; width:550px;"/>
 
 - ***Continuous security monitoring***  
   - for malicious or unauthorized activity
