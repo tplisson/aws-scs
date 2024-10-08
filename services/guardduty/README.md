@@ -1,15 +1,15 @@
-# <img src="../../images/GuardDutyLogo.png" alt="GuardDuty" style="height: 50px; width:50px;"/>  Amazon GuardDuty  
+# <img src="../../images/GuardDutyLogo.png" alt="Amazon GuardDuty" style="height: 50px; width:50px;"/>  Amazon GuardDuty  
 
 ---  
 
-![GuardDutyDiagram1.png](../../images/GuardDutyDiagram1.png)
+![Amazon GuardDuty Overview](../../images/GuardDutyDiagram1.png)
 
 ---  
 ## Overview  
 - Managed ***Threat Detection*** service
   - Detection, not prevention
 
-<img src="../../images/GuardDutyDiagram2.png" alt="GuardDutyDiagram2" style="height: 500px; width:550px;"/>
+<img src="../../images/GuardDutyDiagram2.png" alt="Amazon GuardDuty Operations" style="height: 500px; width:550px;"/>
 
 - ***Continuous security monitoring***  
   - for malicious or unauthorized activity

@@ -1,7 +1,7 @@
-# <img src="../../images/InspectorLogo.png" alt="Inspector" style="height: 50px; width:50px;"/>  Amazon Inspector
+# <img src="../../images/InspectorLogo.png" alt="Amazon Inspector" style="height: 50px; width:50px;"/>  Amazon Inspector
 ---  
 
-![Amazon Inspector Diagram](../../images/InspectorDiagram.png)
+![Amazon Inspector Overview](../../images/InspectorDiagram.png)
 
 ---  
 ## Overview  
