@@ -2,7 +2,7 @@
 
 ---  
 
-![Amazon GuardDuty Overview](../../images/GuardDutyOverview.png)
+<!-- ![Amazon GuardDuty Overview](../../images/GuardDutyOverview.png) -->
 
 ![Amazon GuardDuty Operations](../../images/GuardDutyOperations.jpg)
 
@@ -15,7 +15,7 @@ Managed ***Threat Detection*** service
   - must be enabled in each region
 - Corst based on amount of input data analyzed
 
-<img src="../../images/GuardDutyOperations.png" alt="Amazon GuardDuty Operations" style="height: 500px; width:550px;"/>
+<!-- <img src="../../images/GuardDutyOperations.png" alt="Amazon GuardDuty Operations" style="height: 500px; width:550px;"/> -->
 
 - ***Continuous security monitoring***  
   - for malicious or unauthorized activity
@@ -54,7 +54,7 @@ Optional automated response using:
 - EvenBridge
 - Lambda
 
-<img src="../../images/GuardDutyIntegrations.png" alt="Amazon GuardDuty Integration with EvenBridge & Lambda" style="height: 300px"/>
+<!-- <img src="../../images/GuardDutyIntegrations.png" alt="Amazon GuardDuty Integration with EvenBridge & Lambda" style="height: 300px"/> -->
 
 ## Use Cases
 Detecting:
