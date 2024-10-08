@@ -1,19 +1,17 @@
 # <img src="../../images/GuardDutyLogo.png" alt="Amazon GuardDuty" style="height: 50px; width:50px;"/>  Amazon GuardDuty  
 
 ---  
-
 <!-- ![Amazon GuardDuty Overview](../../images/GuardDutyOverview.png) -->
 
 ![Amazon GuardDuty Operations](../../images/GuardDutyOperations.jpg)
 
----  
 ## Overview  
 Managed ***Threat Detection*** service
 - Detection, not prevention
 - agentless 
 - Regional service
   - must be enabled in each region
-- Corst based on amount of input data analyzed
+- Pricing based on amount of input data analyzed
 
 <!-- <img src="../../images/GuardDutyOperations.png" alt="Amazon GuardDuty Operations" style="height: 500px; width:550px;"/> -->
 
@@ -22,6 +20,13 @@ Managed ***Threat Detection*** service
 - Smart detection:
   - threat intelligence feeds
   - ML behavioral modeling
+
+## Usage
+- Aggregating and analyzing logs to identify unusual activity
+- Compliance
+- Automation through EvenBridge integration
+- in Org: delegated admin account
+  - all findings are centralized and aggregated
 
 ### Data Sources  
 Using multiple **data sources**:
@@ -42,12 +47,7 @@ Generating **findings**:
     - Best-effort basis ! (not guaranteed)
 - Organizations: delegated administrator account
 
-## Usage
-- Aggregating and analyzing logs to identify unusual activity
-- Compliance
-- Automation through EvenBridge integration
-- in Org: delegated admin account
-  - all findings are centralized and aggregated
+<img src="../../images/GuardDutyFindings.jpg" alt="Amazon GuardDuty Findings" style="height: 300px"/>
 
 ## Integration
 Optional automated response using: 
