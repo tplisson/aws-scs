@@ -2,7 +2,7 @@
 
 ---  
 
-![Amazon GuardDuty Overview](../../images/GuardDutyDiagram1.png)
+![Amazon GuardDuty Overview](../../images/GuardDutyOverview.png)
 
 ---  
 ## Overview  
@@ -13,7 +13,7 @@ Managed ***Threat Detection*** service
   - must be enabled in each region
 - Corst based on amount of input data analyzed
 
-<img src="../../images/GuardDutyDiagram2.png" alt="Amazon GuardDuty Operations" style="height: 500px; width:550px;"/>
+<img src="../../images/GuardDutyOperations.png" alt="Amazon GuardDuty Operations" style="height: 500px; width:550px;"/>
 
 - ***Continuous security monitoring***  
   - for malicious or unauthorized activity
