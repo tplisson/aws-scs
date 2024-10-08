@@ -132,6 +132,7 @@ The following is a non-exhaustive list of AWS services and features that are not
 
 ## AWS-SCS-C02 Learning Resources
 - [AWS SkillBuilder](https://explore.skillbuilder.aws/learn/course/18291/exam-prep-standard-course-aws-certified-security-specialty-scs-c02-english)
+  - [Domain 1 - Threat Detection and Incident Response](https://explore.skillbuilder.aws//lms/index.php?r=coursepath/deeplink&id_path=1803&hash=810a00d37aa71dbad276f60d83eb162ed9c7e6d7&generated_by=4386136)
 - [A Cloud Guru AWS-SCS-C02](https://learn.acloud.guru/course/aws-certified-security-specialty-scs-c02/)
 - [Stephane Maarek’s Udemy Course](https://www.udemy.com/course/ultimate-aws-certified-security-specialty/)
 - [Cantrill Leanring](https://learn.cantrill.io/p/aws-certified-security-specialty)
