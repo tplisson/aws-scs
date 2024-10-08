@@ -46,6 +46,7 @@ Generating **findings**:
   - EventBridge integration
     - Best-effort basis ! (not guaranteed)
 - Organizations: delegated administrator account
+- Findings export to S3 recommended
 
 <img src="../../images/GuardDutyFindings.jpg" alt="Amazon GuardDuty Findings" style="height: 400px"/>
 
@@ -61,6 +62,7 @@ Detecting:
 - Brute-Force attacks on EC2 
 - Compromised EC2
 - Suspicious Access Patterns
+- Malware Protection on EC2
 ... etc.
 
 ---  
