@@ -47,7 +47,7 @@ Generating **findings**:
     - Best-effort basis ! (not guaranteed)
 - Organizations: delegated administrator account
 
-<img src="../../images/GuardDutyFindings.jpg" alt="Amazon GuardDuty Findings" style="height: 300px"/>
+<img src="../../images/GuardDutyFindings.jpg" alt="Amazon GuardDuty Findings" style="height: 400px"/>
 
 ## Integration
 Optional automated response using: 
