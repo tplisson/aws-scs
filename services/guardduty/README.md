@@ -50,7 +50,7 @@ Generating **findings**:
 ## Integration
 Optional automated response 
 
-<img src="../../images/GuardDutyIntegrations.png" alt="Amazon GuardDuty Integration with CloudWatch & Lambda" style="height: 400px"/>
+<img src="../../images/GuardDutyIntegrations.png" alt="Amazon GuardDuty Integration with CloudWatch & Lambda" style="height: 300px"/>
 
 ## Use Cases
 Detecting:
