@@ -10,6 +10,7 @@
   - Detection, not prevention
 
 ![GuardDutyDiagram2.png](../../images/GuardDutyDiagram2.png)
+<img src="../../images/GuardDutyDiagram2.png" alt="GuardDutyDiagram2" style="height: 50px; width:50px;"/>
 
 - ***Continuous security monitoring***  
   - for malicious or unauthorized activity
