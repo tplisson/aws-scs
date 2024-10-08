@@ -48,9 +48,11 @@ Generating **findings**:
   - all findings are centralized and aggregated
 
 ## Integration
-Optional automated response 
+Optional automated response using: 
+- EvenBridge
+- Lambda
 
-<img src="../../images/GuardDutyIntegrations.png" alt="Amazon GuardDuty Integration with CloudWatch & Lambda" style="height: 300px"/>
+<img src="../../images/GuardDutyIntegrations.png" alt="Amazon GuardDuty Integration with EvenBridge & Lambda" style="height: 300px"/>
 
 ## Use Cases
 Detecting:
