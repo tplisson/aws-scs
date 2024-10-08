@@ -131,6 +131,7 @@ The following is a non-exhaustive list of AWS services and features that are not
 - [AWS Security Reference Architecture (AWS SRA)](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html)
 
 ## AWS-SCS-C02 Learning Resources
+- [AWS SkillBuilder](https://explore.skillbuilder.aws/learn/course/18291/exam-prep-standard-course-aws-certified-security-specialty-scs-c02-english)
 - [A Cloud Guru AWS-SCS-C02](https://learn.acloud.guru/course/aws-certified-security-specialty-scs-c02/)
 - [Stephane Maarek’s Udemy Course](https://www.udemy.com/course/ultimate-aws-certified-security-specialty/)
 - [Cantrill Leanring](https://learn.cantrill.io/p/aws-certified-security-specialty)
