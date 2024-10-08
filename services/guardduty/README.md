@@ -4,6 +4,8 @@
 
 ![Amazon GuardDuty Overview](../../images/GuardDutyOverview.png)
 
+![Amazon GuardDuty Operations](../../images/GuardDutyOperations.jpg)
+
 ---  
 ## Overview  
 Managed ***Threat Detection*** service
