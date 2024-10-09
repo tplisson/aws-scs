@@ -5,12 +5,10 @@
 | Task Statement | Exam Objective     | 
 | ------------------------ | ------------------ | 
 | **Domain 6** | **Management and Security Governance (14%)**
-| 1 | [Develop a strategy to centrally deploy and manage AWS accounts](Task-Statement-6-1-Develop-a-strategy-to-centrally-deploy-and-manage-AWS-accounts)
-| 2 | [Implement a secure and consistent deployment strategy for cloud resources](Task-Statement-6-2-Implement-a-secure-and-consistent-deployment-strategy-for-cloud-resources)
-| 3 | [Evaluate the compliance of AWS resources]()
-| 4 | [Identify security gaps through architectural reviews and cost analysis]()
-
-
+| 1 | [Develop a strategy to centrally deploy and manage AWS accounts](#task-statement-61-develop-a-strategy-to-centrally-deploy-and-manage-aws-accounts)
+| 2 | [Implement a secure and consistent deployment strategy for cloud resources](#task-statement-62-implement-a-secure-and-consistent-deployment-strategy-for-cloud-resources)
+| 3 | [Evaluate the compliance of AWS resources](#task-statement-63-evaluate-the-compliance-of-aws-resources)
+| 4 | [Identify security gaps through architectural reviews and cost analysis](#task-statement-64-identify-security-gaps-through-architectural-reviews-and-cost-analysis)
 
 --- 
 ## Task Statement 6.1: Develop a strategy to centrally deploy and manage AWS accounts

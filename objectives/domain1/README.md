@@ -5,9 +5,9 @@
 | Task Statement | Exam Objective     | 
 | ------------------------ | ------------------ | 
 | **Domain 1** | **Threat Detection and Incident Response (14%)**
-| 1 | [Design and implement an incident response plan](#task-statement-1-1-design-and-implement-an-incident-response-plan)
-| 2 | [Detect security threats and anomalies by using AWS services](#task-statement-1-2-detect-security-threats-and-anomalies-by-using-aws-services)
-| 3 | [Respond to compromised resources and workloads](#task-statement-1-3-respond-to-compromised-resources-and-workloads)
+| 1 | [Design and implement an incident response plan](#task-statement-11-design-and-implement-an-incident-response-plan)
+| 2 | [Detect security threats and anomalies by using AWS services](#task-statement-12-detect-security-threats-and-anomalies-by-using-aws-services)
+| 3 | [Respond to compromised resources and workloads](#task-statement-13-respond-to-compromised-resources-and-workloads)
 
 ---  
 ## Task Statement 1.1: Design and implement an incident response plan
