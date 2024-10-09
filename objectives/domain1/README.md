@@ -5,11 +5,11 @@
 | Task Statement | Exam Objective     | 
 | ------------------------ | ------------------ | 
 | **Domain 1** | **Threat Detection and Incident Response (14%)**
-| 1 | [Design and implement an incident response plan](#task-statement-1-design-and-implement-an-incident-response-plan)
-| 2 | [Detect security threats and anomalies by using AWS services](#task-statement-2-detect-security-threats-and-anomalies-by-using-aws-services)
-| 3 | [Respond to compromised resources and workloads](#task-statement-3-respond-to-compromised-resources-and-workloads)
+| 1 | [Design and implement an incident response plan](#task-statement-1-1-design-and-implement-an-incident-response-plan)
+| 2 | [Detect security threats and anomalies by using AWS services](#task-statement-1-2-detect-security-threats-and-anomalies-by-using-aws-services)
+| 3 | [Respond to compromised resources and workloads](#task-statement-1-3-respond-to-compromised-resources-and-workloads)
 
-
+---  
 ## Task Statement 1.1: Design and implement an incident response plan
 
 <img src="../../images/D1T1.png" alt="Aspects of AWS incident response" style="height: 300px; width:auto;"/>
@@ -32,6 +32,7 @@ Skills in:
 - Deploying security services (for example, [AWS Security Hub](../../services/securityhub/README.md), [Amazon Macie](../../services/macie/README.md), [Amazon GuardDuty](../../services/guardduty/README.md), Amazon Inspector, [AWS Config](../../services/config/README.md), Amazon Detective, [AWS Identity and Access Management Access Analyzer](../../services/iamanalyzer/README.md))
 - Configuring integrations with native AWS services and third-party services (for example, by using [Amazon EventBridge](../../services/eventbridge/README.md) and the [ASFF](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format.html))
 
+---  
 ## Task Statement 1.2: Detect security threats and anomalies by using AWS services. 
 
 Knowledge of:
@@ -46,7 +47,7 @@ Skills in:
 - Performing queries to validate security events (for example, by using Amazon Athena)
 - Creating metric filters and dashboards to detect anomalous activity (for example, by using [Amazon CloudWatch](../../services/cloudwatch/README.md))  
 
-
+---  
 ## Task Statement 1.3: Respond to compromised resources and workloads. 
 
 Knowledge of:
