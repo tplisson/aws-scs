@@ -39,7 +39,7 @@ Expiration |	3 years
 
 ## [Exam Objectives as of Oct 2024](https://d1.awsstatic.com/training-and-certification/docs-security-spec/AWS-Certified-Security-Specialty_Exam-Guide.pdf)
 
-| Task Statement | Exam Objective     | 
+| Task Statement | Exam Objective               | 
 | ------------------------ | ------------------ | 
 | **Domain 1** | [**Threat Detection and Incident Response (14%)**](objectives/domain1/README.md)
 | 1.1 | Design and implement an incident response plan  
