@@ -70,8 +70,16 @@ Expiration |	3 years
 | 6.3 | Evaluate the compliance of AWS resources
 | 6.4 | Identify security gaps through architectural reviews and cost analysis
 
+---  
+## AWS-SCS-C02 Learning Resources
+- [AWS SkillBuilder](https://explore.skillbuilder.aws/learn/course/18291/exam-prep-standard-course-aws-certified-security-specialty-scs-c02-english)
+  - [Domain 1 - Threat Detection and Incident Response](https://explore.skillbuilder.aws/learn/lp/1803/Security%2520Learning%2520Plan%253A%2520Threat%2520Detection%2520and%2520Incident%2520Response)
+- [A Cloud Guru AWS-SCS-C02](https://learn.acloud.guru/course/aws-certified-security-specialty-scs-c02/)
+- [Stephane Maarek’s Udemy Course](https://www.udemy.com/course/ultimate-aws-certified-security-specialty/)
+- [Cantrill Leanring](https://learn.cantrill.io/p/aws-certified-security-specialty)
+- [Tutorials Dojo Practice Exams](https://portal.tutorialsdojo.com/courses/aws-certified-security-specialty-practice-exams-scs-c02/)
 
-
+---  
 ## Which key tools, technologies, and concepts might be covered on the exam?
 The following is a non-exhaustive list of the tools and technologies that could appear on the exam.  
 - AWS CLI
@@ -81,9 +89,11 @@ The following is a non-exhaustive list of the tools and technologies that could 
 - Certificate management
 - Infrastructure as code (IaC)
 
+---  
 ## AWS services and features
 Note: Security affects all AWS services. Many services do not appear in this list because the overall service is out of scope, but the security aspects of the service are in scope. For example, a candidate for this exam would not be asked about the steps to set up replication for an S3 bucket, but the candidate might be asked about configuring an S3 bucket policy.
 
+---  
 ### Management and Governance:  
 - AWS Audit Manager
 - <img src="images/CloudTrailLogo.png" alt="CloudTrail logo" style="height: 20px; width:20px;"/> [AWS CloudTrail](services/cloudtrail/README.md)  
@@ -92,6 +102,7 @@ Note: Security affects all AWS services. Many services do not appear in this lis
 - AWS Organizations
 - AWS Systems Manager
 - AWS Trusted Advisor
+- <img src="images/ArtifactLogo.png" alt="AWS Artifact logo" style="height: 20px; width:20px;"/> [AWS Config](services/artifact/README.md)  
 
 ### Networking and Content Delivery:  
 - Amazon Detective
@@ -130,11 +141,4 @@ The following is a non-exhaustive list of AWS services and features that are not
 ## AWS Resources
 - [AWS Security Reference Architecture (AWS SRA)](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html)
 
-## AWS-SCS-C02 Learning Resources
-- [AWS SkillBuilder](https://explore.skillbuilder.aws/learn/course/18291/exam-prep-standard-course-aws-certified-security-specialty-scs-c02-english)
-  - [Domain 1 - Threat Detection and Incident Response](https://explore.skillbuilder.aws/learn/lp/1803/Security%2520Learning%2520Plan%253A%2520Threat%2520Detection%2520and%2520Incident%2520Response)
-- [A Cloud Guru AWS-SCS-C02](https://learn.acloud.guru/course/aws-certified-security-specialty-scs-c02/)
-- [Stephane Maarek’s Udemy Course](https://www.udemy.com/course/ultimate-aws-certified-security-specialty/)
-- [Cantrill Leanring](https://learn.cantrill.io/p/aws-certified-security-specialty)
-- [Tutorials Dojo Practice Exams](https://portal.tutorialsdojo.com/courses/aws-certified-security-specialty-practice-exams-scs-c02/)
----  
+
