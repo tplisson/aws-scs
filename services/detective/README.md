@@ -1,7 +1,7 @@
 # <img src="../../images/DetectiveLogo.png" alt="Amazon Detective" style="height: 50px; width:50px;"/>  Amazon Detective  
 
 ---  
-![Amazon Detective Overview](../../images/detectiveOverview.png)  
+![Amazon Detective Overview](../../images/DetectiveOverview.png)  
 
 ## Overview  
 - Root Cause Analysis tool
