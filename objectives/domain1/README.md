@@ -53,7 +53,7 @@ Skills in:
   - ***Runbooks***:  
     - Remediate
     - predefined steps to perform security tasks
-- Deploying security services (for example, [AWS Security Hub](../../services/securityhub/README.md), [Amazon Macie](../../services/macie/README.md), [Amazon GuardDuty](../../services/guardduty/README.md), Amazon Inspector, [AWS Config](../../services/config/README.md), [Amazon Detective](../../services/detective/README.md), [AWS Identity and Access Management Access Analyzer](../../services/iamanalyzer/README.md))  
+- Deploying security services (for example, [AWS Security Hub](../../services/securityhub/README.md), [Amazon Macie](../../services/macie/README.md), [Amazon GuardDuty](../../services/guardduty/README.md), [Amazon Inspector](../../services/inspector/README.md), [AWS Config](../../services/config/README.md), [Amazon Detective](../../services/detective/README.md), [AWS Identity and Access Management Access Analyzer](../../services/iamanalyzer/README.md))  
 - Configuring integrations with native AWS services and third-party services (for example, by using [Amazon EventBridge](../../services/eventbridge/README.md) and the [ASFF](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format.html))  
 
 ---  
@@ -74,7 +74,7 @@ Knowledge of:
 
 Skills in:
 - Evaluating findings from security services (for example, [Amazon GuardDuty](../../services/guardduty/README.md), [Security Hub](../../services/securityhub/README.md), [Macie](../../services/macie/README.md), [AWS Config](../../services/config/README.md), [IAM Access Analyzer](../../services/iamanalyzer/README.md))
-- Searching and correlating security threats across AWS services (for example, by using Detective)
+- Searching and correlating security threats across AWS services (for example, by using [Detective](../../services/detective/README.md))
 - Performing queries to validate security events (for example, by using Amazon Athena)
 - Creating metric filters and dashboards to detect anomalous activity (for example, by using [Amazon CloudWatch](../../services/cloudwatch/README.md))  
 
@@ -97,7 +97,7 @@ Skills in:
   - Review (API call & check legitimacy)
   - Stop EC2 instances(or terminate & replace if needed)
   - Use 3rd-party vendors & marketplace
-- Investigating and analyzing to conduct root cause analysis (for example, by using Detective)
+- Investigating and analyzing to conduct root cause analysis (for example, by using [Detective](../../services/detective/README.md))
 - Capturing relevant forensics data from a compromised resource (for example, Amazon Elastic
 Block Store [Amazon EBS] volume snapshots, memory dump)
 - Querying logs in Amazon S3 for contextual information related to security events (for
