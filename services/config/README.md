@@ -5,7 +5,7 @@
 
 ---  
 ## Overview  
-- Offers detailed view of  AWS resources within AWS accounts
+- Offers detailed view of AWS resources within AWS accounts
 - Provides ***historial tracking*** i.e. configuration recording timeline
 - ***DOES NOT prevent*** changes <--
 - a ***regional*** service 
@@ -26,7 +26,7 @@
 - Security Analysis
   - view low level changes to resources
 
-## Exam terms  
+## Operations  
 - Resources
   - any entity managed by AWS
 - Configuration History = timeline

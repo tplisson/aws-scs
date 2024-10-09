@@ -20,19 +20,41 @@ Knowledge of:
   - Combine available controls, cloud capabilities and remediation options
   - Start small and iterate as you adopt automation capabilities
   - See [AWS Security Incident Response Guide](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/aws-security-incident-response-guide.html)
+    - Preparation
+    - Operations
+    - Post-Incident Activity
+  - [NIST SP 800-61 - Computer Security Incident Handling Guide](https://csrc.nist.gov/pubs/sp/800/61/r2/final):
+    - Preparation: understand threats, set up defenses, contact list 
+    - Detection & analysis: monitor activity, analyze events, document & notify parties
+    - Containment, Eradication & Recovery: Stop or limit spread & return to normal operations
+    - Post-incident: retain evidence, lesson learned
 - **Cloud incidents**
-  - CIRT
-  - Respond to [AWS Abuse Alerts](../../services/abuse/README.md#aws-abuse-alerts)  
-- **Roles and responsibilities in the incident response plan**
+  - See [AWS Security Incident Response Guide](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/aws-security-incident-response-guide.html)
+  - Incident Domains
+    - Infrastructure: compute, storage, network, API
+    - Service: account, IAM, 
+    - Application: source code, web app...
+  - Responding to [AWS Abuse Alerts](../../services/abuse/README.md#aws-abuse-alerts)  
+- **Roles and responsibilities in the incident response plan**  
+  - CIRT - Critical Incident Response Team  
+  -   
 - **[AWS Security Finding Format (ASFF)](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format.html)**
+  - JSON format produced by [Amazon Inspector](../../services/inspector/README.md)  
+  - allows efficient ingestion of security findings data  
 
 
 Skills in:
-- Implementing credential invalidation and rotation strategies in response to compromises (for example, by using AWS Identity and Access Management [IAM] and [AWS Secrets Manager](../../services/secretsmgr/README.md))
-- Isolating AWS resources
-- Designing and implementing playbooks and runbooks for responses to security incidents
-- Deploying security services (for example, [AWS Security Hub](../../services/securityhub/README.md), [Amazon Macie](../../services/macie/README.md), [Amazon GuardDuty](../../services/guardduty/README.md), Amazon Inspector, [AWS Config](../../services/config/README.md), Amazon Detective, [AWS Identity and Access Management Access Analyzer](../../services/iamanalyzer/README.md))
-- Configuring integrations with native AWS services and third-party services (for example, by using [Amazon EventBridge](../../services/eventbridge/README.md) and the [ASFF](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format.html))
+- Implementing credential invalidation and rotation strategies in response to compromises (for example, by using AWS Identity and Access Management [IAM] and [AWS Secrets Manager](../../services/secretsmgr/README.md))  
+- Isolating AWS resources  
+- Designing and implementing playbooks and runbooks for responses to security incidents  
+  - ***Playbooks***:  
+    - Identify an issue
+    - predefined steps to identify security issues  
+  - ***Runbooks***:  
+    - Remediate
+    - predefined steps to perform security tasks
+- Deploying security services (for example, [AWS Security Hub](../../services/securityhub/README.md), [Amazon Macie](../../services/macie/README.md), [Amazon GuardDuty](../../services/guardduty/README.md), Amazon Inspector, [AWS Config](../../services/config/README.md), Amazon Detective, [AWS Identity and Access Management Access Analyzer](../../services/iamanalyzer/README.md))  
+- Configuring integrations with native AWS services and third-party services (for example, by using [Amazon EventBridge](../../services/eventbridge/README.md) and the [ASFF](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format.html))  
 
 ---  
 ## Task Statement 1.2: Detect security threats and anomalies by using AWS services. 
