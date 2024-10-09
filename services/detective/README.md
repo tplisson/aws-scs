@@ -31,6 +31,7 @@ Can help answer many questions, such as:
   - VPC flow logs
   - EKS audit logs
 - Storing up to 1 year of aggregated data 
+- Best practice to activate Detective in a designated security tooling accounts  
 
 <img src="../../images/DetectiveOperations.jpg" alt="Amazon Detective Operations" style="width:550px;"/>
 
