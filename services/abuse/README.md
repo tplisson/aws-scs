@@ -25,14 +25,8 @@
 ---  
 ## AWS Resources
 
-Features  
-https://aws.amazon.com/Abuse Notices/
-
-Documentation  
-https://docs.aws.amazon.com/Abuse Notices/
-
-FAQ
-https://aws.amazon.com/Abuse Notices/faq/
+AWS Service Terms  
+https://aws.amazon.com/service-terms/
 
 ---  
 
