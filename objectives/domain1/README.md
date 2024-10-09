@@ -21,6 +21,8 @@ Knowledge of:
   - Start small and iterate as you adopt automation capabilities
   - See [AWS Security Incident Response Guide](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/aws-security-incident-response-guide.html)
 - **Cloud incidents**
+  - CIRT
+  - Respond to [AWS Abuse Alerts](../../services/abuse/README.md#aws-abuse-alerts)  
 - **Roles and responsibilities in the incident response plan**
 - **[AWS Security Finding Format (ASFF)](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format.html)**
 
@@ -37,9 +39,16 @@ Skills in:
 
 Knowledge of:
 - **AWS managed security services that detect threats**
+  - Threat Detection with [Amazon GuardDuty](../../services/guardduty/README.md)
+  - Vulnerability scanning with [Amazon Inspector](../../services/inspector/README.md)
 - **Anomaly and correlation techniques to join data across services**
+  - Log aggregation & correlation to identify unusual activity with [Amazon GuardDuty](../../services/guardduty/README.md)
+  - [AWS Trusted Advisor](../../services/trusadvisor/README.md) offers for recommendations based on industry best practices (account level)
 - **Visualizations to identify anomalies**
+  - Automated logs analytics with [Amazon CloudWatch](../../services/cloudwatch/README.md)
 - **Strategies to centralize security findings**
+  - Monitoring and root-cause analysis with [Amazon CloudWatch](../../services/cloudwatch/README.md) Logs Anomaly Detection
+  - On-demand compliance reports using [AWS Artifact](../../services/artifact/README.md)
 
 Skills in:
 - Evaluating findings from security services (for example, [Amazon GuardDuty](../../services/guardduty/README.md), [Security Hub](../../services/securityhub/README.md), [Macie](../../services/macie/README.md), [AWS Config](../../services/config/README.md), [IAM Access Analyzer](../../services/iamanalyzer/README.md))

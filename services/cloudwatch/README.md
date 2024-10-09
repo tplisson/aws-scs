@@ -81,3 +81,6 @@ https://aws.amazon.com/cloudwatch/
 
 Documentation  
 https://docs.aws.amazon.com/cloudwatch/
+
+FAQs
+https://aws.amazon.com/cloudwatch/faqs/
