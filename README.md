@@ -37,7 +37,7 @@ Expiration |	3 years
 
 ---  
 
-## [Exam Objectives as of Oct 2024](https://d1.awsstatic.com/training-and-certification/docs-security-spec/AWS-Certified-Security-Specialty_Exam-Guide.pdf)
+## [Exam Objectives](https://d1.awsstatic.com/training-and-certification/docs-security-spec/AWS-Certified-Security-Specialty_Exam-Guide.pdf) (as of Oct 2024)
 
 | Task Statement | Exam Objective               | 
 | ------------------------ | ------------------ | 
