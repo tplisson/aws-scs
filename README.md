@@ -138,7 +138,7 @@ The following is a non-exhaustive list of AWS services and features that are not
 - Migration and transfer services
 
 
-## AWS Resources
-- [AWS Security Reference Architecture (AWS SRA)](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html)
+## AWS Resources  
+- [AWS Security Reference Architecture (AWS SRA)](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html)  
 
 

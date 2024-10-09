@@ -47,7 +47,7 @@ https://aws.amazon.com/detective/
 Documentation  
 https://docs.aws.amazon.com/detective/
 
-FAQs
+FAQs  
 https://aws.amazon.com/detective/faqs/
 
 ---  

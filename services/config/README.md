@@ -69,7 +69,11 @@ Evaluation Modes:
 ---  
 ## AWS Resources  
 
+Features
 https://aws.amazon.com/config/
 
 Documentation  
 https://docs.aws.amazon.com/config/
+
+FAQs
+https://aws.amazon.com/config/faqs/
