@@ -32,7 +32,7 @@ Can help answer many questions, such as:
   - EKS audit logs
 - Storing up to 1 year of aggregated data 
 
-<img src="../../images/DetectiveOperations.png" alt="Amazon Detective Operations" style="width:550px;"/>
+<img src="../../images/DetectiveOperations.jpg" alt="Amazon Detective Operations" style="width:550px;"/>
 
 ---  
 ## Dashboard
