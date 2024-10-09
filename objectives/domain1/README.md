@@ -53,7 +53,7 @@ Skills in:
   - ***Runbooks***:  
     - Remediate
     - predefined steps to perform security tasks
-- Deploying security services (for example, [AWS Security Hub](../../services/securityhub/README.md), [Amazon Macie](../../services/macie/README.md), [Amazon GuardDuty](../../services/guardduty/README.md), Amazon Inspector, [AWS Config](../../services/config/README.md), [Amazon Detective](services/detective/README.md), [AWS Identity and Access Management Access Analyzer](../../services/iamanalyzer/README.md))  
+- Deploying security services (for example, [AWS Security Hub](../../services/securityhub/README.md), [Amazon Macie](../../services/macie/README.md), [Amazon GuardDuty](../../services/guardduty/README.md), Amazon Inspector, [AWS Config](../../services/config/README.md), [Amazon Detective](../../services/detective/README.md), [AWS Identity and Access Management Access Analyzer](../../services/iamanalyzer/README.md))  
 - Configuring integrations with native AWS services and third-party services (for example, by using [Amazon EventBridge](../../services/eventbridge/README.md) and the [ASFF](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format.html))  
 
 ---  
