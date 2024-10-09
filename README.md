@@ -102,7 +102,7 @@ Note: Security affects all AWS services. Many services do not appear in this lis
 - AWS Organizations
 - AWS Systems Manager
 - AWS Trusted Advisor
-- <img src="images/ArtifactLogo.png" alt="AWS Artifact logo" style="height: 20px; width:20px;"/> [AWS Config](services/artifact/README.md)  
+- <img src="images/ArtifactLogo.png" alt="AWS Artifact logo" style="height: 20px; width:20px;"/> [AWS Artifact](services/artifact/README.md)  
 
 ### Networking and Content Delivery:  
 - Amazon Detective
