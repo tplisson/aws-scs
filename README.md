@@ -42,15 +42,15 @@ Expiration |	3 years
 | Task Statement | Exam Objective     | 
 | ------------------------ | ------------------ | 
 | **Domain 1** | [**Threat Detection and Incident Response (14%)**](objectives/domain1/README.md)
-| 1.1 | [Design and implement an incident response plan](objectives/domain1/README.md#task-statement-1-design-and-implement-an-incident-response-plan)
-| 1.2 | [Detect security threats and anomalies by using AWS services](objectives/domain1/README.md#task-statement-2-detect-security-threats-and-anomalies-by-using-aws-services)
-| 1.3 | [Respond to compromised resources and workloads](objectives/domain1/README.md#task-statement-3-respond-to-compromised-resources-and-workloads)
+| 1.1 | Design and implement an incident response plan  
+| 1.2 | Detect security threats and anomalies by using AWS services  
+| 1.3 | Respond to compromised resources and workloads  
 | **Domain 2** | [**Security Logging and Monitoring (18%)**](objectives/domain2/README.md) 
-| 2.1 | [Design and implement monitoring and alerting to address security events](objectives/domain2/README.md#task-statement-1-design-and-implement-monitoring-and-alerting-to-address-security-events)
-| 2.2 | [Troubleshoot security monitoring and alerting](objectives/domain2/README.md#task-statement-2-troubleshoot-security-monitoring-and-alerting)
-| 2.3 | [Design and implement a logging solution](objectives/domain2/README.md#task-statement-3-design-and-implement-a-logging-solution)
-| 2.4 | [Troubleshoot logging solutions](objectives/domain2/README.md#task-statement-4-troubleshoot-logging-solutions)
-| 2.5 | [Design a log analysis solution](objectives/domain2/README.md#task-statement-5-design-a-log-analysis-solution)
+| 2.1 | Design and implement monitoring and alerting to address security events  
+| 2.2 | Troubleshoot security monitoring and alerting  
+| 2.3 | Design and implement a logging solution  
+| 2.4 | Troubleshoot logging solutions  
+| 2.5 | Design a log analysis solution  
 | **Domain 3** | [**Infrastructure Security (20%)**](objectives/domain3/README.md)
 | 3.1 | Design and implement security controls for edge services
 | 3.2 | Design and implement network security controls 
