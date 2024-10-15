@@ -1,7 +1,7 @@
 # <img src="../../images/SecurityHubLogo.png" alt="AWS Security Hub" style="height: 50px; width:50px;"/>  AWS Security Hub
 ---  
 
-![AWS Security Hub Diagram](../../images/SSecurityHubDiagram.png)
+![AWS Security Hub Diagram](../../images/SecurityHubDiagram.png)
 
 ---  
 ## Overview  
@@ -57,5 +57,5 @@ https://aws.amazon.com/security-hub/
 Documentation  
 https://docs.aws.amazon.com/securityhub/
 
-FAQs
+FAQs  
 https://aws.amazon.com/security-hub/faqs/
