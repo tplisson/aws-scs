@@ -38,10 +38,10 @@
 - Insight = collection of related findings (aggregation) = alerts that requires attention
 - Security Hub controls require AWS Config to be activated
 
----  
+<!-- ---  
 ## Security Hub's Capabilities
 - 
-
+ -->
 
 
 <!-- ---   -->
