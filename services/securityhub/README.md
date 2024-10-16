@@ -26,17 +26,20 @@
 - **Cross-Region Aggregation**
   - Designate an *aggregator region* and link some or all regions to consolidate findings for all accounts
 
-- IAM service-linked role for permissions (AWS Config... etc)
+- IAM service-linked role for permissions (AWS Config... etc)  
+
 
 ---  
 ## Exam topics
 - All AWS security services automatically opted in, except for Amazon Macie (sensitive data)
-- Security Checks = evaluation of a rule against a single resource
-- Security Control = rule that may involve multiple resources 
-- Security Standard = collection of controls based on industry standards
-- Findings = potential security issue (record of security check / detection)
-- Insight = collection of related findings (aggregation) = alerts that requires attention
-- Security Hub controls require AWS Config to be activated
+- Security Hub controls **require AWS Config** to be activated !
+- Terms:
+  - Security *Check* = evaluation of a rule against a single resource
+  - Security *Control* = rule that may involve multiple resources 
+  - Security *Standard* = collection of controls based on industry standards
+  - *Finding* = potential security issue (record of security check / detection)
+  - *Insight* = collection of related findings (aggregation) = predefined & custom saved filters showing findings
+
 
 <!-- ---  
 ## Security Hub's Capabilities
@@ -59,3 +62,6 @@ https://docs.aws.amazon.com/securityhub/
 
 FAQs  
 https://aws.amazon.com/security-hub/faqs/
+
+Workshop   
+https://catalog.workshops.aws/security/en-US/0-introduction-to-threat-detection-and-response-services/security-hub/

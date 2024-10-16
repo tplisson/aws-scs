@@ -61,3 +61,6 @@ https://aws.amazon.com/inspector/
 
 Documentation  
 https://docs.aws.amazon.com/inspector/
+
+Workshop  
+https://catalog.workshops.aws/security/en-US/0-introduction-to-threat-detection-and-response-services/inspector/

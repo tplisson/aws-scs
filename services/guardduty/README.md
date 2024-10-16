@@ -106,6 +106,8 @@ https://aws.amazon.com/guardduty/
 Documentation  
 https://docs.aws.amazon.com/guardduty/
 
+Workshop  
+https://catalog.workshops.aws/security/en-US/0-introduction-to-threat-detection-and-response-services/guardduty/
 
 ---  
 
