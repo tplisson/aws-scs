@@ -34,11 +34,12 @@
 - All AWS security services automatically opted in, except for Amazon Macie (sensitive data)
 - Security Hub controls **require AWS Config** to be activated !
 - Terms:
+  - *Finding* = potential security issue (record of security check / detection)
+  - *Insight* = collection of related findings (aggregation) = predefined & custom 
   - Security *Check* = evaluation of a rule against a single resource
   - Security *Control* = rule that may involve multiple resources 
   - Security *Standard* = collection of controls based on industry standards
-  - *Finding* = potential security issue (record of security check / detection)
-  - *Insight* = collection of related findings (aggregation) = predefined & custom saved filters showing findings
+  saved filters showing findings
 
 
 <!-- ---  

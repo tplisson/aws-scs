@@ -10,12 +10,13 @@
 - ***DOES NOT prevent*** changes <--
 - a ***regional*** service 
 - use ***Aggregators*** to collect across regions and across accounts
-- ***need to enable and start the recorder***, not enabled out-of-the-box
+- ***need to enable and start the recorder***, not enabled by default
 - Using ***Rules***, managed or custom
 - Centralized notification
-- Remediation using EventBridge or Lambda
-- SNS integration for real-time notifications
+  - SNS integration for real-time notifications
+- Remediation possible via EventBridge or Lambda
 
+---  
 ## Usage  
 - Audit and Compliance, Governance
   - main usage
@@ -25,10 +26,11 @@
 - Troubleshooting
 - Security Analysis
   - view low level changes to resources
+  - integration with other tools such as [Security Hub](../securityhub/README.md)
 
+---  
 ## Operations  
-- Resources
-  - any entity managed by AWS
+- Resource = any entity managed by AWS
 - Configuration History = timeline
 - Configuration Items
   - point-in-time views of different attributes
@@ -41,6 +43,7 @@
 - Conformance Packs
   - Collection of Config rules & remediation actions deployed as a single entity
 
+---  
 ## Config Rules  
 
 Rules 
@@ -75,5 +78,9 @@ https://aws.amazon.com/config/
 Documentation  
 https://docs.aws.amazon.com/config/
 
-FAQs
+FAQs  
 https://aws.amazon.com/config/faqs/
+
+Workshops  
+https://awsworkshop.io/tags/aws-config/
+https://mng.workshop.aws/config.html
