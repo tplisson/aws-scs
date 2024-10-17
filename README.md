@@ -109,7 +109,7 @@ Note: Security affects all AWS services. Many services do not appear in this lis
 - <img src="images/DetectiveLogo.png" alt="Detective logo" style="height: 20px; width:20px;"/> [Amazon Detective](services/detective/README.md)  
 - AWS Firewall Manager
 - AWS Network Firewall
-- AWS Security Hub
+- <img src="images/SecurityHubLogo.png" alt="Security Hub logo" style="height: 20px; width:20px;"/> [AWS Security Hub](services/securityhub/README.md)  
 - AWS Shield
 - Amazon VPC
   - VPC endpoints
