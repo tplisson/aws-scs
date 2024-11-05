@@ -8,6 +8,7 @@
 - Cloud Security Posture Management (CSPM) tool
 - Automated, continuous security best practice checks
 - Consolidated findings across AWS accounts and partners
+- AWS Config required: security checks use AWS Config managed or custom rules
 - Findings in ASFF standardized data format
 - Integrations for automated remediation to speed up MTTR:
   - EventBridge + Lambda
@@ -59,6 +60,10 @@
 ---  
 ## Security Hub Insights
 ![AWS Security Hub Insights](../../images/SecurityHubInsights.jpg)   
+
+---  
+## Security Hub is based on AWS Config rules
+![AWS Config rules for Security Hub](../../images/SecurityHubConfigRules.jpg)   
 
 
 <!-- 
