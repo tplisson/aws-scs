@@ -23,7 +23,7 @@ Knowledge of:
     - Preparation
     - Operations
     - Post-Incident Activity
-  - [NIST SP 800-61 - Computer Security Incident Handling Guide](https://csrc.nist.gov/pubs/sp/800/61/r2/final):
+  - [NIST SP 800-61 - Computer Security Incident Handling Guide](https://csrc.nist.gov/pubs/sp/800/61/r2/final) provides uidelines for incident handling, particularly for analyzing incident-related data and determining the appropriate response to each incident:
     - Preparation: understand threats, set up defenses, contact list 
     - Detection & analysis: monitor activity, analyze events, document & notify parties
     - Containment, Eradication & Recovery: Stop or limit spread & return to normal operations

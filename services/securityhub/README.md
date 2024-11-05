@@ -42,16 +42,30 @@
   saved filters showing findings
 
 
-<!-- ---  
-## Security Hub's Capabilities
-- 
- -->
+---  
+## Security Hub Dashboard
+![AWS Security Hub Dashboard](../../images/SecurityHubDashboard.jpg)  
+
+---  
+## Security Hub Controls
+![AWS Security Hub Controls](../../images/SecurityHubControls.jpg)  
+
+---  
+## Security Hub Findings
+![AWS Security Hub Findings](../../images/SecurityHubFindings1.png)  
+
+![AWS Security Hub Findings](../../images/SecurityHubFindings2.jpg)   
+
+---  
+## Security Hub Insights
+![AWS Security Hub Insights](../../images/SecurityHubInsights.jpg)   
 
 
-<!-- ---   -->
-<!-- ## Example  -->
+<!-- 
+---  
+## Example  -->
 
-<!-- ![Image](../../images/ImageName.jpg) -->
+<!-- <!-- ![Image](../../images/ImageName.jpg) -->
 
 ---  
 ## AWS Resources  
