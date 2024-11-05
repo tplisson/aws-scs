@@ -21,10 +21,10 @@ basic_model = Model(
     ]
 )
 
-# Define the deck with the name "AWS Incident Response and Threat Detection"
+# Define the deck 
 deck = Deck(
     DECK_ID,
-    'AWS SCS-C02 Domain 1 - AWS Incident Response and Threat Detection'
+    'AWS SCS-C02 - Domain 1 - AWS Incident Response and Threat Detection'
 )
 
 # Define flashcards based on the table
@@ -80,7 +80,7 @@ for front, back in flashcards:
     deck.add_note(note)
 
 # Save the deck to an .apkg file
-output_path = "AWS-SCS-C02_Domain_1_AWS_Incident_Response_Threat_Detection_Flashcards.apkg"
+output_path = "AWS-SCS-C02-Domain1-AWS-Incident-Response-and-Threat-Detection.apkg"
 Package(deck).write_to_file(output_path)
 
 print(f"Anki package created: {output_path}")
