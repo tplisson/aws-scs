@@ -35,11 +35,11 @@
 - All AWS security services automatically opted in, except for Amazon Macie (sensitive data)
 - Security Hub controls **require AWS Config** to be activated !
 - Terms:
-  - *Finding* = potential security issue (record of security check / detection)
-  - *Insight* = collection of related findings (aggregation) = predefined & custom 
-  - Security *Check* = evaluation of a rule against a single resource
-  - Security *Control* = rule that may involve multiple resources 
-  - Security *Standard* = collection of controls based on industry standards
+  - [*Finding*](#security-hub-findings) = potential security issue (record of security check / detection)
+  - [*Insight*](#security-hub-insights) = collection of related findings (aggregation) = predefined & custom 
+  - [Security *Check*](#aws-config-rules-for-security-hubs) = evaluation of a rule against a single resource
+  - [Security *Control*](#security-hub-controls) = rule that may involve multiple resources 
+  - [Security *Standard*](#security-hub-standards) = collection of controls based on industry standards
   saved filters showing findings
 
 
@@ -62,7 +62,12 @@
 ![AWS Security Hub Insights](../../images/SecurityHubInsights.jpg)   
 
 ---  
-## Security Hub is based on AWS Config rules
+##  Security Hub Standards
+![AWS Security Hub Standards](../../images/SecurityHubStandards.png)   
+
+
+---  
+## AWS Config rules for Security Hub
 ![AWS Config rules for Security Hub](../../images/SecurityHubConfigRules.jpg)   
 
 
