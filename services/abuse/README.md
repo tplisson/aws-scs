@@ -2,7 +2,7 @@
 
 ---  
 ## Overview  
-- AWS send abuse notices if it suspects abusive activity occuring
+- AWS Trust & Safety Team sends abuse notices if it suspects abusive activity occuring
 - Can result in AWS account termination
 - Best practice = [automate tasks on incoming notifications](https://aws.amazon.com/blogs/mt/automating-processes-for-handling-and-remediating-aws-abuse-alerts/)
 
