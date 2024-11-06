@@ -5,13 +5,13 @@
 
 ---  
 ## Overview  
-- Offers detailed view of AWS resources within AWS accounts
 - Provides ***historial tracking*** i.e. configuration recording timeline
 - ***DOES NOT prevent*** changes <--
-- a ***regional*** service 
-- use ***Aggregators*** to collect across regions and across accounts
+- **Configuration Recorder** ***must be enabled*** to start recording & storing configurations
 - ***need to enable and start the recorder***, not enabled by default
-- Using ***Rules***, managed or custom
+- Using ***Rules***: managed or custom
+- a ***regional*** service 
+- For OU | multi-account: use ***Aggregators*** (and across accounts)  
 - Centralized notification
   - SNS integration for real-time notifications
 - Remediation possible via EventBridge or Lambda
