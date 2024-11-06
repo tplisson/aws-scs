@@ -55,14 +55,25 @@ Trigger Types:
 - Periodic
 - Hybrid
 - ? Compliance (mark as compliant or noncompliant)
-  
-Evaluation Modes:
+
+Evaluation Results:  
+- COMPLIANT  
+- NON_COMPLIANT  
+- ERROR  
+- NOT_APPLICABLE  
+
+Evaluation Modes:  
 - Proactive mode  
   - evaluate resources before they have been deployed
   - COMPLIANT or NON_COMPLIANT
 - Detective mode
   - evaluate resources that have already been deployed
   - 
+
+Sample rule:  
+`ec2-instance-managed-by-systems-manager`  
+http://s3.amazonaws.com/aws-configservice-us-east-1/cloudformation-templates-for-managed-rules/EC2_INSTANCE_MANAGED_BY_SSM.template
+
 
 ---  
 ## Example using Multi-Account / Multi-Region Data Aggregation  
@@ -72,7 +83,7 @@ Evaluation Modes:
 ---  
 ## AWS Resources  
 
-Features
+Features  
 https://aws.amazon.com/config/
 
 Documentation  
@@ -82,5 +93,6 @@ FAQs
 https://aws.amazon.com/config/faqs/
 
 Workshops  
-https://awsworkshop.io/tags/aws-config/
-https://mng.workshop.aws/config.html
+[ ] https://awsworkshop.io/tags/aws-config/  
+[x] https://mng.workshop.aws/config.html  
+
