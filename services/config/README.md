@@ -93,6 +93,6 @@ FAQs
 https://aws.amazon.com/config/faqs/
 
 Workshops  
-[ ] https://awsworkshop.io/tags/aws-config/  
-[x] https://mng.workshop.aws/config.html  
+- [ ] https://awsworkshop.io/tags/aws-config/  
+- [x] https://mng.workshop.aws/config.html  
 
