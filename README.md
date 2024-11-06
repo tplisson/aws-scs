@@ -102,7 +102,7 @@ Note: Security affects all AWS services. Many services do not appear in this lis
 - <img src="images/ConfigLogo.png" alt="Config logo" style="height: 20px; width:20px;"/> [AWS Config](services/config/README.md)  
 - AWS Organizations
 - <img src="images/SystemsManagerLogo.png" alt="AWS Systems Manager logo" style="height: 20px; width:20px;"/> [AWS Systems Manager](services/systemsmgr/README.md)  
-- <img src="images/TrustedAdvisor.svg.png" alt="AWS Trust Advisor logo" style="height: 20px; width:20px;"/> [AWS Trust Advisor](services/trustadvisor/README.md)
+- <img src="images/TrustedAdvisor.svg" alt="AWS Trust Advisor logo" style="height: 20px; width:20px;"/> [AWS Trust Advisor](services/trustadvisor/README.md)
 - <img src="images/ArtifactLogo.png" alt="AWS Artifact logo" style="height: 20px; width:20px;"/> [AWS Artifact](services/artifact/README.md)  
 
 ### Networking and Content Delivery:  
