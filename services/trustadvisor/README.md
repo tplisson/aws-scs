@@ -6,7 +6,7 @@
 
 ---  
 ## Overview
-AWS Trusted Advisor inspect your AWS environment *at the account level* and offers **recommendations** *based on industry best practices*.
+AWS Trusted Advisor inspect your AWS environment <ins>at the account level</ins> and offers **recommendations** based on industry best practices.
 
 ## Support Plan
 - Basic | Developer support = limited to 6 free checks
