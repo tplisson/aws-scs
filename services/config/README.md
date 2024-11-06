@@ -7,7 +7,7 @@
 ## Overview  
 - Provides ***historial tracking*** i.e. configuration recording timeline
 - ***DOES NOT prevent*** changes <--
-- **Configuration Recorder** <u>must be enabled</u> to start recording & storing configurations
+- **Configuration Recorder** <ins>must be enabled</ins> to start recording & storing configurations
 - ***need to enable and start the recorder***, not enabled by default
 - Using ***Rules***: managed or custom
 - a ***regional*** service 
