@@ -71,7 +71,7 @@ Evaluation Modes:
   - 
 
 Sample rule:  
-`ec2-instance-managed-by-systems-manager`  
+[]`ec2-instance-managed-by-systems-manager`](https://docs.aws.amazon.com/config/latest/developerguide/ec2-instance-managed-by-systems-manager.html)  
 http://s3.amazonaws.com/aws-configservice-us-east-1/cloudformation-templates-for-managed-rules/EC2_INSTANCE_MANAGED_BY_SSM.template
 
 
